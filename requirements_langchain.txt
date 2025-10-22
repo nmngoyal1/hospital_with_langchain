@@ -1,0 +1,10 @@
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+sentence-transformers>=3.0.0
+# Try 0.5.5 first; if Windows DLL error occurs, use 0.4.24
+chromadb==0.5.5
+streamlit>=1.36.0
+pandas>=2.0.0
+numpy>=1.24.0
+pydub>=0.25.1

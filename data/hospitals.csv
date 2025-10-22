@@ -1,0 +1,451 @@
+hospital_name,address,city,latitude,longitude,specialties,insurers,rating,phone,website
+Delhi Multicare Hospital 1,"Sector 107, Delhi",Delhi,28.649699,77.197649,cardiology|dermatology|oncology,Care Health|HDFC ERGO|ICICI Lombard,4.6,+91-5140958092,https://www.delhi1.example.com
+Delhi Specialty Clinic 2,"Sector 3, Delhi",Delhi,28.624168,77.206155,dermatology|oncology|ophthalmology,Care Health|ICICI Lombard|Niva Bupa,4.6,+91-6720317315,https://www.delhi2.example.com
+Delhi Multicare Hospital 3,"Sector 93, Delhi",Delhi,28.637179,77.094602,cardiology|dermatology|neurology|pediatrics|physiotherapy,HDFC ERGO|ICICI Lombard,4.4,+91-8808687077,https://www.delhi3.example.com
+Delhi Specialty Clinic 4,"Sector 5, Delhi",Delhi,28.680969,77.264644,dental|ophthalmology|pediatrics|physiotherapy,HDFC ERGO|ICICI Lombard,4.4,+91-2420496689,https://www.delhi4.example.com
+Delhi Multicare Hospital 5,"Sector 52, Delhi",Delhi,28.620174,77.184452,dental|oncology|ophthalmology,HDFC ERGO|ICICI Lombard,4.8,+91-8453968600,https://www.delhi5.example.com
+Delhi Specialty Clinic 6,"Sector 116, Delhi",Delhi,28.58564,77.088847,dermatology|orthopedics|pediatrics,Care Health|HDFC ERGO,4.2,+91-7830093612,https://www.delhi6.example.com
+Delhi Multicare Hospital 7,"Sector 81, Delhi",Delhi,28.5366,77.12751,dermatology|neurology|oncology|pediatrics|physiotherapy,ICICI Lombard|Niva Bupa,4.4,+91-6367057431,https://www.delhi7.example.com
+Delhi Specialty Clinic 8,"Sector 112, Delhi",Delhi,28.656196,77.388834,cardiology|dental|oncology,Care Health|HDFC ERGO,4.2,+91-6380761708,https://www.delhi8.example.com
+Delhi Multicare Hospital 9,"Sector 16, Delhi",Delhi,28.588189,77.254657,dermatology|ophthalmology|pediatrics|physiotherapy,HDFC ERGO|Star Health,4.2,+91-2223757073,https://www.delhi9.example.com
+Delhi Specialty Clinic 10,"Sector 99, Delhi",Delhi,28.630209,77.278571,dermatology|neurology|oncology|orthopedics,ICICI Lombard|Niva Bupa|Star Health,4.1,+91-4377620025,https://www.delhi10.example.com
+Delhi Multicare Hospital 11,"Sector 38, Delhi",Delhi,28.549791,77.142023,cardiology|ent|orthopedics|pediatrics,ICICI Lombard|Niva Bupa|Star Health,4.1,+91-2004528470,https://www.delhi11.example.com
+Delhi Specialty Clinic 12,"Sector 60, Delhi",Delhi,28.766613,77.335969,dental|ent|ophthalmology,Care Health|HDFC ERGO|ICICI Lombard,4.0,+91-5619190708,https://www.delhi12.example.com
+Delhi Multicare Hospital 13,"Sector 93, Delhi",Delhi,28.544782,77.322461,dermatology|ent|oncology|ophthalmology,HDFC ERGO|Niva Bupa|Star Health,4.6,+91-2611652895,https://www.delhi13.example.com
+Delhi Specialty Clinic 14,"Sector 52, Delhi",Delhi,28.584024,77.215584,dental|dermatology|ent|neurology,Care Health|Niva Bupa|Star Health,4.7,+91-3267319207,https://www.delhi14.example.com
+Delhi Multicare Hospital 15,"Sector 55, Delhi",Delhi,28.581864,77.071966,dental|dermatology|ent|physiotherapy,Care Health|ICICI Lombard|Star Health,4.4,+91-8740645629,https://www.delhi15.example.com
+Delhi Specialty Clinic 16,"Sector 57, Delhi",Delhi,28.705209,77.150901,dental|oncology|physiotherapy,HDFC ERGO|ICICI Lombard|Star Health,4.3,+91-6995431399,https://www.delhi16.example.com
+Delhi Multicare Hospital 17,"Sector 69, Delhi",Delhi,28.614031,77.271062,ophthalmology|pediatrics|physiotherapy,Care Health|HDFC ERGO|Niva Bupa,3.9,+91-2420079121,https://www.delhi17.example.com
+Delhi Specialty Clinic 18,"Sector 8, Delhi",Delhi,28.578842,77.226044,dermatology|ophthalmology|pediatrics,Niva Bupa|Star Health,4.9,+91-3948720231,https://www.delhi18.example.com
+Delhi Multicare Hospital 19,"Sector 23, Delhi",Delhi,28.64937,77.083598,dental|dermatology|ophthalmology|orthopedics,Niva Bupa|Star Health,4.1,+91-2038286329,https://www.delhi19.example.com
+Delhi Specialty Clinic 20,"Sector 99, Delhi",Delhi,28.554929,77.380783,dental|dermatology|physiotherapy,Care Health|ICICI Lombard,4.4,+91-1899056798,https://www.delhi20.example.com
+Delhi Multicare Hospital 21,"Sector 5, Delhi",Delhi,28.654196,77.280635,dental|dermatology|neurology,HDFC ERGO|Niva Bupa,3.9,+91-5699262193,https://www.delhi21.example.com
+Delhi Specialty Clinic 22,"Sector 77, Delhi",Delhi,28.705514,77.272287,dental|neurology|orthopedics|physiotherapy,ICICI Lombard|Star Health,3.8,+91-4432238180,https://www.delhi22.example.com
+Delhi Multicare Hospital 23,"Sector 117, Delhi",Delhi,28.582769,77.361702,dental|oncology|orthopedics|pediatrics,HDFC ERGO|Niva Bupa|Star Health,4.0,+91-3979148350,https://www.delhi23.example.com
+Delhi Specialty Clinic 24,"Sector 77, Delhi",Delhi,28.56739,77.077591,ent|neurology|orthopedics,Care Health|HDFC ERGO|ICICI Lombard,3.8,+91-0501049850,https://www.delhi24.example.com
+Delhi Multicare Hospital 25,"Sector 99, Delhi",Delhi,28.605645,77.310624,dental|ent|oncology|orthopedics|physiotherapy,ICICI Lombard|Star Health,4.6,+91-9920480230,https://www.delhi25.example.com
+Delhi Specialty Clinic 26,"Sector 92, Delhi",Delhi,28.690329,77.335545,cardiology|ophthalmology|orthopedics|pediatrics|physiotherapy,Care Health|Niva Bupa,4.7,+91-0644126515,https://www.delhi26.example.com
+Delhi Multicare Hospital 27,"Sector 79, Delhi",Delhi,28.729978,77.313594,dermatology|ent|neurology|oncology|pediatrics,Care Health|HDFC ERGO|ICICI Lombard,4.7,+91-9709037415,https://www.delhi27.example.com
+Delhi Specialty Clinic 28,"Sector 107, Delhi",Delhi,28.464895,77.201683,cardiology|dental|ophthalmology|orthopedics|pediatrics,HDFC ERGO|ICICI Lombard|Star Health,4.0,+91-9224419545,https://www.delhi28.example.com
+Delhi Multicare Hospital 29,"Sector 90, Delhi",Delhi,28.606186,77.124008,dermatology|ent|neurology|orthopedics,Care Health|ICICI Lombard,4.8,+91-0930702375,https://www.delhi29.example.com
+Delhi Specialty Clinic 30,"Sector 78, Delhi",Delhi,28.669304,77.144935,cardiology|dental|orthopedics|pediatrics,HDFC ERGO|ICICI Lombard|Star Health,4.1,+91-4968065980,https://www.delhi30.example.com
+Delhi Multicare Hospital 31,"Sector 10, Delhi",Delhi,28.58869,77.035713,cardiology|dermatology|oncology|pediatrics|physiotherapy,Care Health|Niva Bupa,4.8,+91-1754804545,https://www.delhi31.example.com
+Delhi Specialty Clinic 32,"Sector 94, Delhi",Delhi,28.599036,77.021982,dental|oncology|ophthalmology|orthopedics|pediatrics,Care Health|HDFC ERGO|Niva Bupa,3.8,+91-5075281792,https://www.delhi32.example.com
+Delhi Multicare Hospital 33,"Sector 26, Delhi",Delhi,28.582852,77.249603,dental|ent|ophthalmology|pediatrics,HDFC ERGO|ICICI Lombard|Niva Bupa,4.3,+91-2051794691,https://www.delhi33.example.com
+Delhi Specialty Clinic 34,"Sector 65, Delhi",Delhi,28.686426,77.161638,dental|neurology|oncology|ophthalmology|orthopedics,HDFC ERGO|Niva Bupa,4.8,+91-8122075784,https://www.delhi34.example.com
+Delhi Multicare Hospital 35,"Sector 85, Delhi",Delhi,28.578757,77.173487,dermatology|neurology|oncology,Care Health|HDFC ERGO,4.2,+91-2506080061,https://www.delhi35.example.com
+Delhi Specialty Clinic 36,"Sector 51, Delhi",Delhi,28.678218,77.21685,cardiology|dental|dermatology|orthopedics|pediatrics,Care Health|Niva Bupa,4.4,+91-5804603519,https://www.delhi36.example.com
+Delhi Multicare Hospital 37,"Sector 118, Delhi",Delhi,28.732249,77.205814,cardiology|dental|ent|physiotherapy,HDFC ERGO|ICICI Lombard|Niva Bupa,4.5,+91-3394397557,https://www.delhi37.example.com
+Delhi Specialty Clinic 38,"Sector 107, Delhi",Delhi,28.492858,77.159325,ent|neurology|ophthalmology|pediatrics,Care Health|ICICI Lombard,3.9,+91-2785604493,https://www.delhi38.example.com
+Delhi Multicare Hospital 39,"Sector 40, Delhi",Delhi,28.617916,77.298832,dermatology|neurology|ophthalmology|orthopedics|physiotherapy,ICICI Lombard|Star Health,4.8,+91-1611025786,https://www.delhi39.example.com
+Delhi Specialty Clinic 40,"Sector 107, Delhi",Delhi,28.68877,77.151677,dermatology|ent|ophthalmology|physiotherapy,Care Health|HDFC ERGO|Star Health,4.4,+91-0627207210,https://www.delhi40.example.com
+Delhi Multicare Hospital 41,"Sector 66, Delhi",Delhi,28.595523,77.332476,ent|neurology|oncology|pediatrics,Care Health|HDFC ERGO,4.8,+91-1066167086,https://www.delhi41.example.com
+Delhi Specialty Clinic 42,"Sector 72, Delhi",Delhi,28.558367,77.157768,dental|neurology|oncology|ophthalmology,Care Health|HDFC ERGO|Star Health,4.0,+91-6169606422,https://www.delhi42.example.com
+Delhi Multicare Hospital 43,"Sector 2, Delhi",Delhi,28.493556,77.353879,cardiology|ent|ophthalmology,ICICI Lombard|Niva Bupa|Star Health,4.4,+91-1423957097,https://www.delhi43.example.com
+Delhi Specialty Clinic 44,"Sector 96, Delhi",Delhi,28.612467,77.236392,ent|orthopedics|pediatrics,Care Health|HDFC ERGO,4.8,+91-1645149385,https://www.delhi44.example.com
+Delhi Multicare Hospital 45,"Sector 102, Delhi",Delhi,28.603183,77.153235,cardiology|dermatology|oncology|orthopedics,Care Health|Niva Bupa,4.3,+91-9094915024,https://www.delhi45.example.com
+Delhi Specialty Clinic 46,"Sector 21, Delhi",Delhi,28.510522,77.256701,dental|ent|oncology|ophthalmology|pediatrics,HDFC ERGO|Niva Bupa|Star Health,3.8,+91-3223018914,https://www.delhi46.example.com
+Delhi Multicare Hospital 47,"Sector 1, Delhi",Delhi,28.522511,77.099878,ophthalmology|orthopedics|pediatrics,Care Health|HDFC ERGO|Niva Bupa,3.9,+91-0098607274,https://www.delhi47.example.com
+Delhi Specialty Clinic 48,"Sector 80, Delhi",Delhi,28.671904,77.285373,neurology|oncology|ophthalmology|pediatrics,Care Health|HDFC ERGO|Niva Bupa,4.0,+91-4596468271,https://www.delhi48.example.com
+Delhi Multicare Hospital 49,"Sector 95, Delhi",Delhi,28.711691,77.179491,cardiology|oncology|ophthalmology|pediatrics,Care Health|Star Health,4.8,+91-7966670358,https://www.delhi49.example.com
+Delhi Specialty Clinic 50,"Sector 109, Delhi",Delhi,28.624372,77.349683,cardiology|ophthalmology|orthopedics|pediatrics,HDFC ERGO|ICICI Lombard|Star Health,4.2,+91-0487898634,https://www.delhi50.example.com
+Jaipur Multicare Hospital 1,"Sector 114, Jaipur",Jaipur,26.778249,75.763073,dental|ophthalmology|orthopedics|physiotherapy,HDFC ERGO|Niva Bupa|Star Health,4.7,+91-4567718633,https://www.jaipur1.example.com
+Jaipur Specialty Clinic 2,"Sector 109, Jaipur",Jaipur,26.996516,75.918327,neurology|orthopedics|pediatrics|physiotherapy,ICICI Lombard|Niva Bupa|Star Health,4.0,+91-8239092110,https://www.jaipur2.example.com
+Jaipur Multicare Hospital 3,"Sector 102, Jaipur",Jaipur,26.937165,75.756865,neurology|oncology|physiotherapy,HDFC ERGO|ICICI Lombard|Star Health,3.8,+91-1987841757,https://www.jaipur3.example.com
+Jaipur Specialty Clinic 4,"Sector 18, Jaipur",Jaipur,26.89543,75.795555,neurology|ophthalmology|orthopedics|physiotherapy,HDFC ERGO|ICICI Lombard,4.4,+91-0572708849,https://www.jaipur4.example.com
+Jaipur Multicare Hospital 5,"Sector 60, Jaipur",Jaipur,26.935305,75.736419,cardiology|dermatology|oncology|ophthalmology|orthopedics,Care Health|HDFC ERGO|Niva Bupa,4.6,+91-6108071725,https://www.jaipur5.example.com
+Jaipur Specialty Clinic 6,"Sector 28, Jaipur",Jaipur,26.997905,75.768197,cardiology|dental|ent|oncology|physiotherapy,Care Health|Niva Bupa,4.3,+91-5971132360,https://www.jaipur6.example.com
+Jaipur Multicare Hospital 7,"Sector 51, Jaipur",Jaipur,26.902956,75.622801,cardiology|ent|orthopedics|pediatrics|physiotherapy,Care Health|Star Health,4.7,+91-3135207443,https://www.jaipur7.example.com
+Jaipur Specialty Clinic 8,"Sector 3, Jaipur",Jaipur,26.802452,75.731376,dermatology|ent|oncology|orthopedics|physiotherapy,Care Health|HDFC ERGO|Niva Bupa,4.3,+91-7804713624,https://www.jaipur8.example.com
+Jaipur Multicare Hospital 9,"Sector 94, Jaipur",Jaipur,26.900751,75.678891,dental|ent|pediatrics|physiotherapy,Care Health|HDFC ERGO,4.2,+91-1770741158,https://www.jaipur9.example.com
+Jaipur Specialty Clinic 10,"Sector 8, Jaipur",Jaipur,26.93922,75.826005,dental|ent|oncology|orthopedics|pediatrics,Niva Bupa|Star Health,4.7,+91-1010080395,https://www.jaipur10.example.com
+Jaipur Multicare Hospital 11,"Sector 15, Jaipur",Jaipur,26.957958,75.708191,dental|dermatology|ent|ophthalmology,Care Health|Star Health,4.1,+91-7713633595,https://www.jaipur11.example.com
+Jaipur Specialty Clinic 12,"Sector 41, Jaipur",Jaipur,27.061968,75.731596,cardiology|ent|oncology|physiotherapy,HDFC ERGO|ICICI Lombard|Star Health,4.6,+91-6462151254,https://www.jaipur12.example.com
+Jaipur Multicare Hospital 13,"Sector 35, Jaipur",Jaipur,26.831115,75.832908,dental|dermatology|oncology,Care Health|Niva Bupa|Star Health,4.4,+91-1028394131,https://www.jaipur13.example.com
+Jaipur Specialty Clinic 14,"Sector 39, Jaipur",Jaipur,27.007315,75.822807,cardiology|dermatology|ent|neurology,HDFC ERGO|ICICI Lombard|Star Health,4.7,+91-3691644585,https://www.jaipur14.example.com
+Jaipur Multicare Hospital 15,"Sector 103, Jaipur",Jaipur,26.901104,75.873169,ent|oncology|pediatrics,Care Health|ICICI Lombard|Star Health,4.4,+91-7369259980,https://www.jaipur15.example.com
+Jaipur Specialty Clinic 16,"Sector 76, Jaipur",Jaipur,27.07022,75.685466,dental|neurology|pediatrics,ICICI Lombard|Niva Bupa|Star Health,4.7,+91-5311843906,https://www.jaipur16.example.com
+Jaipur Multicare Hospital 17,"Sector 59, Jaipur",Jaipur,26.867436,75.743918,dermatology|ent|pediatrics,HDFC ERGO|ICICI Lombard|Star Health,4.2,+91-8671653631,https://www.jaipur17.example.com
+Jaipur Specialty Clinic 18,"Sector 114, Jaipur",Jaipur,26.956564,75.702157,dental|oncology|orthopedics,Care Health|ICICI Lombard|Star Health,4.2,+91-1109770783,https://www.jaipur18.example.com
+Jaipur Multicare Hospital 19,"Sector 80, Jaipur",Jaipur,26.834803,75.841324,dermatology|ent|neurology|physiotherapy,ICICI Lombard|Niva Bupa|Star Health,4.8,+91-8483153525,https://www.jaipur19.example.com
+Jaipur Specialty Clinic 20,"Sector 1, Jaipur",Jaipur,26.96933,75.755663,dental|ent|oncology|physiotherapy,Care Health|Star Health,4.5,+91-0259279182,https://www.jaipur20.example.com
+Jaipur Multicare Hospital 21,"Sector 66, Jaipur",Jaipur,26.957257,75.79202,cardiology|dermatology|ophthalmology|physiotherapy,Care Health|HDFC ERGO|Niva Bupa,3.8,+91-6648323452,https://www.jaipur21.example.com
+Jaipur Specialty Clinic 22,"Sector 112, Jaipur",Jaipur,26.909972,75.710488,cardiology|ent|ophthalmology,Care Health|ICICI Lombard|Niva Bupa,3.9,+91-9667099733,https://www.jaipur22.example.com
+Jaipur Multicare Hospital 23,"Sector 1, Jaipur",Jaipur,27.013115,75.781226,dental|ent|physiotherapy,HDFC ERGO|Niva Bupa,4.7,+91-7709431723,https://www.jaipur23.example.com
+Jaipur Specialty Clinic 24,"Sector 18, Jaipur",Jaipur,27.04354,75.720361,dermatology|ent|oncology|ophthalmology|physiotherapy,ICICI Lombard|Niva Bupa,4.1,+91-2698881264,https://www.jaipur24.example.com
+Jaipur Multicare Hospital 25,"Sector 39, Jaipur",Jaipur,26.867873,75.940585,dental|oncology|pediatrics,HDFC ERGO|ICICI Lombard|Niva Bupa,4.5,+91-8705863014,https://www.jaipur25.example.com
+Jaipur Specialty Clinic 26,"Sector 8, Jaipur",Jaipur,26.926538,75.738652,cardiology|ent|neurology|oncology,Care Health|HDFC ERGO|ICICI Lombard,4.4,+91-1637593486,https://www.jaipur26.example.com
+Jaipur Multicare Hospital 27,"Sector 55, Jaipur",Jaipur,26.846457,75.793869,cardiology|dental|neurology,Care Health|Niva Bupa|Star Health,4.4,+91-5517604531,https://www.jaipur27.example.com
+Jaipur Specialty Clinic 28,"Sector 105, Jaipur",Jaipur,26.863244,75.692371,neurology|oncology|pediatrics,Care Health|HDFC ERGO|Niva Bupa,4.8,+91-5439095127,https://www.jaipur28.example.com
+Jaipur Multicare Hospital 29,"Sector 67, Jaipur",Jaipur,27.040271,75.808336,cardiology|dental|dermatology|oncology|ophthalmology,Care Health|HDFC ERGO|Niva Bupa,4.4,+91-5030532285,https://www.jaipur29.example.com
+Jaipur Specialty Clinic 30,"Sector 8, Jaipur",Jaipur,26.88561,75.707096,dermatology|oncology|physiotherapy,Care Health|HDFC ERGO|Niva Bupa,4.7,+91-1622421981,https://www.jaipur30.example.com
+Jaipur Multicare Hospital 31,"Sector 31, Jaipur",Jaipur,27.030561,75.779275,dental|oncology|ophthalmology|orthopedics|pediatrics,Care Health|Star Health,4.7,+91-6333561432,https://www.jaipur31.example.com
+Jaipur Specialty Clinic 32,"Sector 14, Jaipur",Jaipur,26.828068,75.641654,cardiology|dermatology|neurology|orthopedics|physiotherapy,HDFC ERGO|ICICI Lombard,4.0,+91-4049144143,https://www.jaipur32.example.com
+Jaipur Multicare Hospital 33,"Sector 11, Jaipur",Jaipur,26.812368,75.725691,cardiology|dental|ent|ophthalmology|physiotherapy,Care Health|HDFC ERGO|Niva Bupa,4.5,+91-5949080788,https://www.jaipur33.example.com
+Jaipur Specialty Clinic 34,"Sector 29, Jaipur",Jaipur,26.868752,75.934888,cardiology|dermatology|ophthalmology,Care Health|HDFC ERGO|ICICI Lombard,4.8,+91-6724064778,https://www.jaipur34.example.com
+Jaipur Multicare Hospital 35,"Sector 51, Jaipur",Jaipur,26.969557,75.886534,dental|ent|neurology|ophthalmology|physiotherapy,HDFC ERGO|Star Health,4.7,+91-2944579507,https://www.jaipur35.example.com
+Jaipur Specialty Clinic 36,"Sector 66, Jaipur",Jaipur,26.956157,75.893275,dermatology|ent|neurology|oncology|pediatrics,HDFC ERGO|ICICI Lombard,4.9,+91-4371541907,https://www.jaipur36.example.com
+Jaipur Multicare Hospital 37,"Sector 104, Jaipur",Jaipur,26.85265,75.803603,cardiology|dermatology|neurology|pediatrics|physiotherapy,HDFC ERGO|ICICI Lombard,4.1,+91-6081447766,https://www.jaipur37.example.com
+Jaipur Specialty Clinic 38,"Sector 86, Jaipur",Jaipur,26.837531,75.827947,cardiology|dermatology|oncology|physiotherapy,Care Health|HDFC ERGO,4.3,+91-6754072526,https://www.jaipur38.example.com
+Jaipur Multicare Hospital 39,"Sector 111, Jaipur",Jaipur,26.966695,75.818107,neurology|oncology|physiotherapy,Care Health|HDFC ERGO|Star Health,4.0,+91-9461883359,https://www.jaipur39.example.com
+Jaipur Specialty Clinic 40,"Sector 34, Jaipur",Jaipur,26.855831,75.839698,dental|oncology|pediatrics,HDFC ERGO|Niva Bupa,4.0,+91-9454576495,https://www.jaipur40.example.com
+Jaipur Multicare Hospital 41,"Sector 45, Jaipur",Jaipur,26.884005,75.754014,cardiology|dental|ent,HDFC ERGO|Niva Bupa|Star Health,4.5,+91-1220257954,https://www.jaipur41.example.com
+Jaipur Specialty Clinic 42,"Sector 48, Jaipur",Jaipur,26.918772,75.906722,oncology|ophthalmology|pediatrics,HDFC ERGO|ICICI Lombard|Star Health,4.8,+91-0053356894,https://www.jaipur42.example.com
+Jaipur Multicare Hospital 43,"Sector 50, Jaipur",Jaipur,26.877168,75.696806,dental|dermatology|neurology|orthopedics|physiotherapy,HDFC ERGO|ICICI Lombard,4.8,+91-4304943593,https://www.jaipur43.example.com
+Jaipur Specialty Clinic 44,"Sector 100, Jaipur",Jaipur,26.9196,75.799097,cardiology|dental|pediatrics|physiotherapy,Care Health|Niva Bupa|Star Health,4.1,+91-9562679598,https://www.jaipur44.example.com
+Jaipur Multicare Hospital 45,"Sector 84, Jaipur",Jaipur,26.874484,75.786167,dermatology|neurology|ophthalmology|physiotherapy,Care Health|HDFC ERGO,3.9,+91-6499784941,https://www.jaipur45.example.com
+Jaipur Specialty Clinic 46,"Sector 37, Jaipur",Jaipur,26.944544,75.730458,dental|ent|ophthalmology,HDFC ERGO|Niva Bupa|Star Health,3.9,+91-5600719865,https://www.jaipur46.example.com
+Jaipur Multicare Hospital 47,"Sector 110, Jaipur",Jaipur,27.069066,75.863302,ent|ophthalmology|orthopedics|physiotherapy,Care Health|HDFC ERGO|Niva Bupa,4.6,+91-7759220643,https://www.jaipur47.example.com
+Jaipur Specialty Clinic 48,"Sector 116, Jaipur",Jaipur,27.026475,75.809501,cardiology|dental|ent|physiotherapy,Care Health|Niva Bupa,4.6,+91-1872709325,https://www.jaipur48.example.com
+Jaipur Multicare Hospital 49,"Sector 50, Jaipur",Jaipur,26.8545,75.615144,cardiology|dental|ent|neurology|ophthalmology,HDFC ERGO|Star Health,4.2,+91-7193516221,https://www.jaipur49.example.com
+Jaipur Specialty Clinic 50,"Sector 92, Jaipur",Jaipur,26.914369,75.683587,cardiology|dental|ophthalmology,Care Health|HDFC ERGO|Star Health,4.6,+91-6064413596,https://www.jaipur50.example.com
+Abu Dhabi Multicare Hospital 1,"Sector 3, Abu Dhabi",Abu Dhabi,24.474975,54.331436,cardiology|dermatology|ophthalmology,National Life|Oman Insurance,4.1,+971-18471529,https://www.abudhabi1.example.com
+Abu Dhabi Specialty Clinic 2,"Sector 90, Abu Dhabi",Abu Dhabi,24.429195,54.359374,dermatology|ent|neurology|ophthalmology,AXA|Bupa|National Life,4.9,+971-20311277,https://www.abudhabi2.example.com
+Abu Dhabi Multicare Hospital 3,"Sector 72, Abu Dhabi",Abu Dhabi,24.432167,54.408431,dermatology|ent|oncology|ophthalmology|pediatrics,ADNIC|AXA,4.7,+971-12056175,https://www.abudhabi3.example.com
+Abu Dhabi Specialty Clinic 4,"Sector 62, Abu Dhabi",Abu Dhabi,24.422965,54.298858,dental|ent|neurology|oncology|pediatrics,AXA|Bupa|National Life,4.7,+971-36868237,https://www.abudhabi4.example.com
+Abu Dhabi Multicare Hospital 5,"Sector 40, Abu Dhabi",Abu Dhabi,24.473753,54.486453,dental|neurology|pediatrics,AXA|MetLife,4.8,+971-18587602,https://www.abudhabi5.example.com
+Abu Dhabi Specialty Clinic 6,"Sector 85, Abu Dhabi",Abu Dhabi,24.499973,54.336653,cardiology|dental|neurology|ophthalmology|physiotherapy,AXA|Oman Insurance,3.9,+971-07675829,https://www.abudhabi6.example.com
+Abu Dhabi Multicare Hospital 7,"Sector 21, Abu Dhabi",Abu Dhabi,24.435036,54.356215,dental|dermatology|ent|neurology|oncology,ADNIC|AXA|MetLife,4.1,+971-71680765,https://www.abudhabi7.example.com
+Abu Dhabi Specialty Clinic 8,"Sector 17, Abu Dhabi",Abu Dhabi,24.448196,54.366353,ent|neurology|oncology,AXA|MetLife,4.0,+971-50073096,https://www.abudhabi8.example.com
+Abu Dhabi Multicare Hospital 9,"Sector 62, Abu Dhabi",Abu Dhabi,24.471153,54.456897,dental|neurology|orthopedics|physiotherapy,AXA|Oman Insurance,4.9,+971-07277409,https://www.abudhabi9.example.com
+Abu Dhabi Specialty Clinic 10,"Sector 82, Abu Dhabi",Abu Dhabi,24.461731,54.340794,dermatology|neurology|pediatrics|physiotherapy,ADNIC|AXA|MetLife,4.2,+971-61891291,https://www.abudhabi10.example.com
+Abu Dhabi Multicare Hospital 11,"Sector 70, Abu Dhabi",Abu Dhabi,24.437616,54.358456,cardiology|dermatology|ent|neurology|orthopedics,AXA|Bupa|MetLife,3.8,+971-40867854,https://www.abudhabi11.example.com
+Abu Dhabi Specialty Clinic 12,"Sector 99, Abu Dhabi",Abu Dhabi,24.418969,54.482719,cardiology|oncology|physiotherapy,AXA|MetLife,3.9,+971-98530761,https://www.abudhabi12.example.com
+Abu Dhabi Multicare Hospital 13,"Sector 68, Abu Dhabi",Abu Dhabi,24.440211,54.305184,dental|ophthalmology|pediatrics,AXA|Daman|National Life,4.3,+971-00547137,https://www.abudhabi13.example.com
+Abu Dhabi Specialty Clinic 14,"Sector 4, Abu Dhabi",Abu Dhabi,24.452473,54.393936,ent|oncology|orthopedics,Bupa|Daman|MetLife,4.1,+971-49494942,https://www.abudhabi14.example.com
+Abu Dhabi Multicare Hospital 15,"Sector 73, Abu Dhabi",Abu Dhabi,24.46685,54.430976,dental|neurology|physiotherapy,Daman|National Life,4.2,+971-12904463,https://www.abudhabi15.example.com
+Abu Dhabi Specialty Clinic 16,"Sector 24, Abu Dhabi",Abu Dhabi,24.505869,54.268946,ent|neurology|ophthalmology,Bupa|MetLife|National Life,4.2,+971-40435241,https://www.abudhabi16.example.com
+Abu Dhabi Multicare Hospital 17,"Sector 12, Abu Dhabi",Abu Dhabi,24.468272,54.482352,cardiology|dental|dermatology|ent,AXA|MetLife|National Life,4.9,+971-35693507,https://www.abudhabi17.example.com
+Abu Dhabi Specialty Clinic 18,"Sector 64, Abu Dhabi",Abu Dhabi,24.566459,54.308577,dermatology|ophthalmology|orthopedics,AXA|Daman,3.9,+971-00007252,https://www.abudhabi18.example.com
+Abu Dhabi Multicare Hospital 19,"Sector 110, Abu Dhabi",Abu Dhabi,24.485984,54.202697,cardiology|ent|orthopedics,ADNIC|Daman|National Life,4.6,+971-82217907,https://www.abudhabi19.example.com
+Abu Dhabi Specialty Clinic 20,"Sector 1, Abu Dhabi",Abu Dhabi,24.493094,54.407951,cardiology|dental|neurology|ophthalmology|physiotherapy,ADNIC|Oman Insurance,4.6,+971-52721251,https://www.abudhabi20.example.com
+Abu Dhabi Multicare Hospital 21,"Sector 106, Abu Dhabi",Abu Dhabi,24.453965,54.328781,cardiology|neurology|ophthalmology|physiotherapy,Bupa|MetLife,4.3,+971-00844242,https://www.abudhabi21.example.com
+Abu Dhabi Specialty Clinic 22,"Sector 81, Abu Dhabi",Abu Dhabi,24.407701,54.397195,cardiology|dental|oncology|pediatrics|physiotherapy,ADNIC|AXA|MetLife,4.4,+971-36716117,https://www.abudhabi22.example.com
+Abu Dhabi Multicare Hospital 23,"Sector 76, Abu Dhabi",Abu Dhabi,24.425571,54.386347,neurology|oncology|physiotherapy,ADNIC|Bupa,4.6,+971-80281331,https://www.abudhabi23.example.com
+Abu Dhabi Specialty Clinic 24,"Sector 49, Abu Dhabi",Abu Dhabi,24.445273,54.433413,ent|neurology|oncology|orthopedics,Bupa|Oman Insurance,4.0,+971-70388432,https://www.abudhabi24.example.com
+Abu Dhabi Multicare Hospital 25,"Sector 103, Abu Dhabi",Abu Dhabi,24.45371,54.3197,ent|neurology|pediatrics,Daman|National Life,4.0,+971-85575036,https://www.abudhabi25.example.com
+Abu Dhabi Specialty Clinic 26,"Sector 88, Abu Dhabi",Abu Dhabi,24.369913,54.425867,cardiology|dermatology|ent|neurology|pediatrics,ADNIC|AXA|MetLife,3.8,+971-80559449,https://www.abudhabi26.example.com
+Abu Dhabi Multicare Hospital 27,"Sector 25, Abu Dhabi",Abu Dhabi,24.441543,54.318255,dental|ent|neurology|pediatrics|physiotherapy,ADNIC|MetLife|Oman Insurance,4.1,+971-07954981,https://www.abudhabi27.example.com
+Abu Dhabi Specialty Clinic 28,"Sector 96, Abu Dhabi",Abu Dhabi,24.439794,54.300831,ophthalmology|pediatrics|physiotherapy,AXA|National Life|Oman Insurance,4.7,+971-87753728,https://www.abudhabi28.example.com
+Abu Dhabi Multicare Hospital 29,"Sector 77, Abu Dhabi",Abu Dhabi,24.462015,54.41505,dermatology|ent|oncology|ophthalmology|physiotherapy,ADNIC|AXA|National Life,4.0,+971-98989247,https://www.abudhabi29.example.com
+Abu Dhabi Specialty Clinic 30,"Sector 28, Abu Dhabi",Abu Dhabi,24.383731,54.471009,dental|dermatology|ent|pediatrics|physiotherapy,ADNIC|Bupa,4.3,+971-87501519,https://www.abudhabi30.example.com
+Abu Dhabi Multicare Hospital 31,"Sector 38, Abu Dhabi",Abu Dhabi,24.425255,54.390638,cardiology|neurology|orthopedics|physiotherapy,ADNIC|AXA|National Life,4.7,+971-15832798,https://www.abudhabi31.example.com
+Abu Dhabi Specialty Clinic 32,"Sector 18, Abu Dhabi",Abu Dhabi,24.442141,54.288882,cardiology|ent|orthopedics|pediatrics|physiotherapy,National Life|Oman Insurance,4.8,+971-16797306,https://www.abudhabi32.example.com
+Abu Dhabi Multicare Hospital 33,"Sector 44, Abu Dhabi",Abu Dhabi,24.484295,54.402077,cardiology|dermatology|ophthalmology,Daman|MetLife|Oman Insurance,4.3,+971-82938576,https://www.abudhabi33.example.com
+Abu Dhabi Specialty Clinic 34,"Sector 117, Abu Dhabi",Abu Dhabi,24.381245,54.282097,dermatology|ophthalmology|orthopedics|pediatrics,AXA|Oman Insurance,4.5,+971-10993369,https://www.abudhabi34.example.com
+Abu Dhabi Multicare Hospital 35,"Sector 5, Abu Dhabi",Abu Dhabi,24.480233,54.416344,dermatology|neurology|orthopedics|physiotherapy,Daman|Oman Insurance,4.1,+971-66697443,https://www.abudhabi35.example.com
+Abu Dhabi Specialty Clinic 36,"Sector 8, Abu Dhabi",Abu Dhabi,24.377213,54.389986,dental|ent|pediatrics,AXA|Oman Insurance,3.9,+971-31779321,https://www.abudhabi36.example.com
+Abu Dhabi Multicare Hospital 37,"Sector 116, Abu Dhabi",Abu Dhabi,24.459817,54.4398,dental|dermatology|ent|orthopedics|physiotherapy,Bupa|Oman Insurance,3.8,+971-35238469,https://www.abudhabi37.example.com
+Abu Dhabi Specialty Clinic 38,"Sector 25, Abu Dhabi",Abu Dhabi,24.396479,54.306145,cardiology|dental|neurology|orthopedics|pediatrics,AXA|Bupa|Oman Insurance,4.6,+971-18095803,https://www.abudhabi38.example.com
+Abu Dhabi Multicare Hospital 39,"Sector 21, Abu Dhabi",Abu Dhabi,24.461716,54.406484,dental|oncology|pediatrics,MetLife|National Life,4.6,+971-80188553,https://www.abudhabi39.example.com
+Abu Dhabi Specialty Clinic 40,"Sector 47, Abu Dhabi",Abu Dhabi,24.5111,54.432973,dermatology|oncology|ophthalmology,Daman|MetLife,4.5,+971-16372580,https://www.abudhabi40.example.com
+Abu Dhabi Multicare Hospital 41,"Sector 6, Abu Dhabi",Abu Dhabi,24.552236,54.379671,dermatology|ophthalmology|pediatrics,Bupa|MetLife|Oman Insurance,4.1,+971-76216221,https://www.abudhabi41.example.com
+Abu Dhabi Specialty Clinic 42,"Sector 97, Abu Dhabi",Abu Dhabi,24.418074,54.347829,dental|dermatology|neurology,AXA|Bupa|National Life,4.3,+971-25416303,https://www.abudhabi42.example.com
+Abu Dhabi Multicare Hospital 43,"Sector 14, Abu Dhabi",Abu Dhabi,24.5143,54.463313,cardiology|dental|ent|neurology|oncology,ADNIC|Bupa,4.9,+971-48419380,https://www.abudhabi43.example.com
+Abu Dhabi Specialty Clinic 44,"Sector 3, Abu Dhabi",Abu Dhabi,24.393994,54.278654,cardiology|dermatology|ophthalmology|pediatrics,Bupa|Daman,4.1,+971-53232141,https://www.abudhabi44.example.com
+Abu Dhabi Multicare Hospital 45,"Sector 27, Abu Dhabi",Abu Dhabi,24.404986,54.463703,dental|neurology|orthopedics|pediatrics,AXA|National Life|Oman Insurance,4.0,+971-52475318,https://www.abudhabi45.example.com
+Abu Dhabi Specialty Clinic 46,"Sector 45, Abu Dhabi",Abu Dhabi,24.461579,54.347557,dental|dermatology|neurology|ophthalmology|pediatrics,ADNIC|Bupa|MetLife,4.3,+971-23483892,https://www.abudhabi46.example.com
+Abu Dhabi Multicare Hospital 47,"Sector 41, Abu Dhabi",Abu Dhabi,24.548472,54.459332,ent|oncology|ophthalmology|physiotherapy,ADNIC|Bupa|MetLife,4.1,+971-71290169,https://www.abudhabi47.example.com
+Abu Dhabi Specialty Clinic 48,"Sector 36, Abu Dhabi",Abu Dhabi,24.439272,54.430303,ent|neurology|oncology|orthopedics|pediatrics,ADNIC|Bupa|Oman Insurance,4.2,+971-05481741,https://www.abudhabi48.example.com
+Abu Dhabi Multicare Hospital 49,"Sector 60, Abu Dhabi",Abu Dhabi,24.381543,54.418446,cardiology|neurology|ophthalmology|pediatrics,Bupa|Daman|MetLife,4.1,+971-65730625,https://www.abudhabi49.example.com
+Abu Dhabi Specialty Clinic 50,"Sector 38, Abu Dhabi",Abu Dhabi,24.385981,54.425589,ent|neurology|ophthalmology,AXA|MetLife,4.1,+971-79684937,https://www.abudhabi50.example.com
+Dubai Multicare Hospital 1,"Sector 32, Dubai",Dubai,25.168688,55.330873,dermatology|ent|neurology|oncology|physiotherapy,ADNIC|Bupa,4.7,+971-65854960,https://www.dubai1.example.com
+Dubai Specialty Clinic 2,"Sector 30, Dubai",Dubai,25.17724,55.146891,cardiology|dental|physiotherapy,AXA|Bupa,4.4,+971-15500929,https://www.dubai2.example.com
+Dubai Multicare Hospital 3,"Sector 36, Dubai",Dubai,25.162656,55.253601,cardiology|dental|orthopedics|pediatrics,AXA|Bupa|Oman Insurance,4.8,+971-29790112,https://www.dubai3.example.com
+Dubai Specialty Clinic 4,"Sector 93, Dubai",Dubai,25.325681,55.353511,dental|oncology|ophthalmology|orthopedics|physiotherapy,Bupa|Oman Insurance,4.8,+971-00082498,https://www.dubai4.example.com
+Dubai Multicare Hospital 5,"Sector 56, Dubai",Dubai,25.254282,55.334926,dental|neurology|pediatrics,Bupa|Daman,4.8,+971-24871217,https://www.dubai5.example.com
+Dubai Specialty Clinic 6,"Sector 57, Dubai",Dubai,25.189897,55.326999,dermatology|neurology|oncology|ophthalmology|physiotherapy,National Life|Oman Insurance,4.0,+971-57633910,https://www.dubai6.example.com
+Dubai Multicare Hospital 7,"Sector 98, Dubai",Dubai,25.282973,55.187825,oncology|pediatrics|physiotherapy,National Life|Oman Insurance,4.5,+971-68590624,https://www.dubai7.example.com
+Dubai Specialty Clinic 8,"Sector 101, Dubai",Dubai,25.247185,55.289355,dental|ent|orthopedics,Daman|MetLife|Oman Insurance,3.9,+971-11296105,https://www.dubai8.example.com
+Dubai Multicare Hospital 9,"Sector 67, Dubai",Dubai,25.323073,55.302582,dermatology|neurology|oncology|orthopedics,ADNIC|AXA|Daman,4.0,+971-39430704,https://www.dubai9.example.com
+Dubai Specialty Clinic 10,"Sector 5, Dubai",Dubai,25.18682,55.300166,dermatology|neurology|oncology|orthopedics,Bupa|MetLife|Oman Insurance,4.9,+971-39220234,https://www.dubai10.example.com
+Dubai Multicare Hospital 11,"Sector 48, Dubai",Dubai,25.222846,55.356313,oncology|orthopedics|pediatrics,Bupa|Daman|Oman Insurance,4.2,+971-28321983,https://www.dubai11.example.com
+Dubai Specialty Clinic 12,"Sector 11, Dubai",Dubai,25.261805,55.282683,cardiology|dermatology|oncology|ophthalmology,ADNIC|MetLife|National Life,4.4,+971-16517644,https://www.dubai12.example.com
+Dubai Multicare Hospital 13,"Sector 89, Dubai",Dubai,25.213311,55.241744,dental|ent|pediatrics,ADNIC|Bupa|Oman Insurance,3.8,+971-06753527,https://www.dubai13.example.com
+Dubai Specialty Clinic 14,"Sector 66, Dubai",Dubai,25.268809,55.288709,cardiology|dental|neurology|pediatrics,ADNIC|AXA|National Life,4.6,+971-67467822,https://www.dubai14.example.com
+Dubai Multicare Hospital 15,"Sector 8, Dubai",Dubai,25.220403,55.275267,cardiology|dental|dermatology|ophthalmology|physiotherapy,Bupa|Daman|National Life,3.9,+971-91315793,https://www.dubai15.example.com
+Dubai Specialty Clinic 16,"Sector 37, Dubai",Dubai,25.271394,55.119211,cardiology|dental|neurology|ophthalmology,ADNIC|AXA|Oman Insurance,4.7,+971-15776516,https://www.dubai16.example.com
+Dubai Multicare Hospital 17,"Sector 62, Dubai",Dubai,25.250804,55.360447,cardiology|dental|neurology,Bupa|MetLife,4.3,+971-85812709,https://www.dubai17.example.com
+Dubai Specialty Clinic 18,"Sector 39, Dubai",Dubai,25.226086,55.155637,neurology|ophthalmology|pediatrics,ADNIC|MetLife|National Life,4.2,+971-21663870,https://www.dubai18.example.com
+Dubai Multicare Hospital 19,"Sector 77, Dubai",Dubai,25.207121,55.351134,dental|ent|physiotherapy,Daman|National Life,4.3,+971-51557678,https://www.dubai19.example.com
+Dubai Specialty Clinic 20,"Sector 10, Dubai",Dubai,25.167341,55.318638,dental|dermatology|ent|neurology|physiotherapy,ADNIC|AXA|MetLife,4.5,+971-03305300,https://www.dubai20.example.com
+Dubai Multicare Hospital 21,"Sector 58, Dubai",Dubai,25.166176,55.255165,cardiology|ophthalmology|orthopedics|pediatrics,AXA|Oman Insurance,4.6,+971-06114460,https://www.dubai21.example.com
+Dubai Specialty Clinic 22,"Sector 73, Dubai",Dubai,25.335073,55.284032,dental|ent|oncology|physiotherapy,National Life|Oman Insurance,4.1,+971-08877079,https://www.dubai22.example.com
+Dubai Multicare Hospital 23,"Sector 43, Dubai",Dubai,25.28205,55.234062,ent|neurology|ophthalmology|orthopedics|physiotherapy,ADNIC|Bupa|National Life,3.9,+971-02270421,https://www.dubai23.example.com
+Dubai Specialty Clinic 24,"Sector 28, Dubai",Dubai,25.232119,55.2825,dental|dermatology|neurology|oncology|pediatrics,MetLife|Oman Insurance,4.9,+971-39083629,https://www.dubai24.example.com
+Dubai Multicare Hospital 25,"Sector 56, Dubai",Dubai,25.16669,55.244677,ent|neurology|ophthalmology|pediatrics|physiotherapy,AXA|Oman Insurance,4.0,+971-75989379,https://www.dubai25.example.com
+Dubai Specialty Clinic 26,"Sector 67, Dubai",Dubai,25.174771,55.218724,dental|ent|neurology|ophthalmology,Daman|Oman Insurance,4.1,+971-60581294,https://www.dubai26.example.com
+Dubai Multicare Hospital 27,"Sector 86, Dubai",Dubai,25.270913,55.255336,ent|oncology|physiotherapy,ADNIC|Bupa,3.8,+971-63142576,https://www.dubai27.example.com
+Dubai Specialty Clinic 28,"Sector 10, Dubai",Dubai,25.164725,55.37002,dental|ent|ophthalmology,Bupa|Oman Insurance,4.0,+971-10726975,https://www.dubai28.example.com
+Dubai Multicare Hospital 29,"Sector 103, Dubai",Dubai,25.278753,55.249515,cardiology|ent|ophthalmology|orthopedics|physiotherapy,ADNIC|AXA|Bupa,4.2,+971-40552700,https://www.dubai29.example.com
+Dubai Specialty Clinic 30,"Sector 38, Dubai",Dubai,25.140784,55.282589,cardiology|dental|orthopedics,National Life|Oman Insurance,3.9,+971-68194935,https://www.dubai30.example.com
+Dubai Multicare Hospital 31,"Sector 18, Dubai",Dubai,25.229314,55.212116,cardiology|dental|oncology,Daman|MetLife,3.9,+971-70610235,https://www.dubai31.example.com
+Dubai Specialty Clinic 32,"Sector 112, Dubai",Dubai,25.267359,55.347664,cardiology|dental|ent|neurology|pediatrics,Bupa|Daman|National Life,4.1,+971-61767269,https://www.dubai32.example.com
+Dubai Multicare Hospital 33,"Sector 30, Dubai",Dubai,25.142658,55.212018,cardiology|dermatology|orthopedics|physiotherapy,ADNIC|Bupa|Oman Insurance,4.2,+971-65917984,https://www.dubai33.example.com
+Dubai Specialty Clinic 34,"Sector 63, Dubai",Dubai,25.197018,55.282927,dental|ent|ophthalmology|pediatrics|physiotherapy,Bupa|Daman|MetLife,4.2,+971-69286010,https://www.dubai34.example.com
+Dubai Multicare Hospital 35,"Sector 74, Dubai",Dubai,25.15272,55.233525,cardiology|dental|ent|oncology|physiotherapy,ADNIC|Bupa|Oman Insurance,4.6,+971-68823192,https://www.dubai35.example.com
+Dubai Specialty Clinic 36,"Sector 86, Dubai",Dubai,25.239191,55.24029,ent|pediatrics|physiotherapy,AXA|Bupa|MetLife,3.8,+971-95893651,https://www.dubai36.example.com
+Dubai Multicare Hospital 37,"Sector 79, Dubai",Dubai,25.207923,55.228044,cardiology|dental|orthopedics|pediatrics|physiotherapy,ADNIC|AXA,4.8,+971-35469634,https://www.dubai37.example.com
+Dubai Specialty Clinic 38,"Sector 47, Dubai",Dubai,25.198245,55.376414,cardiology|ent|neurology|oncology,ADNIC|Oman Insurance,4.5,+971-45326153,https://www.dubai38.example.com
+Dubai Multicare Hospital 39,"Sector 19, Dubai",Dubai,25.150626,55.225848,dental|oncology|pediatrics|physiotherapy,MetLife|National Life,3.8,+971-19896329,https://www.dubai39.example.com
+Dubai Specialty Clinic 40,"Sector 57, Dubai",Dubai,25.237515,55.337438,cardiology|ent|ophthalmology,AXA|Bupa|National Life,4.7,+971-64369100,https://www.dubai40.example.com
+Dubai Multicare Hospital 41,"Sector 47, Dubai",Dubai,25.128841,55.268662,cardiology|ent|pediatrics,Bupa|MetLife|National Life,4.0,+971-05101535,https://www.dubai41.example.com
+Dubai Specialty Clinic 42,"Sector 97, Dubai",Dubai,25.241755,55.267487,cardiology|orthopedics|physiotherapy,AXA|MetLife|Oman Insurance,4.3,+971-17898981,https://www.dubai42.example.com
+Dubai Multicare Hospital 43,"Sector 66, Dubai",Dubai,25.201443,55.344213,cardiology|ent|pediatrics,ADNIC|AXA|Daman,4.4,+971-94171957,https://www.dubai43.example.com
+Dubai Specialty Clinic 44,"Sector 61, Dubai",Dubai,25.252428,55.312731,dermatology|neurology|oncology,AXA|National Life|Oman Insurance,4.3,+971-50660851,https://www.dubai44.example.com
+Dubai Multicare Hospital 45,"Sector 87, Dubai",Dubai,25.241699,55.252001,dental|dermatology|ent|ophthalmology|orthopedics,AXA|Daman|Oman Insurance,4.4,+971-58514876,https://www.dubai45.example.com
+Dubai Specialty Clinic 46,"Sector 96, Dubai",Dubai,25.143596,55.267071,cardiology|dental|ent|oncology|orthopedics,Bupa|MetLife|National Life,4.2,+971-35720224,https://www.dubai46.example.com
+Dubai Multicare Hospital 47,"Sector 109, Dubai",Dubai,25.298424,55.312792,dental|ent|pediatrics,AXA|Oman Insurance,4.7,+971-27379929,https://www.dubai47.example.com
+Dubai Specialty Clinic 48,"Sector 9, Dubai",Dubai,25.147662,55.2134,cardiology|dental|dermatology|ent|pediatrics,Bupa|Daman,4.5,+971-09027735,https://www.dubai48.example.com
+Dubai Multicare Hospital 49,"Sector 12, Dubai",Dubai,25.259433,55.315549,cardiology|dental|neurology|oncology|orthopedics,ADNIC|MetLife|National Life,4.6,+971-95866189,https://www.dubai49.example.com
+Dubai Specialty Clinic 50,"Sector 97, Dubai",Dubai,25.197166,55.350871,dental|dermatology|ent|pediatrics,Bupa|MetLife|National Life,4.3,+971-39568965,https://www.dubai50.example.com
+Sharjah Multicare Hospital 1,"Sector 74, Sharjah",Sharjah,25.330258,55.399493,cardiology|oncology|ophthalmology|orthopedics,ADNIC|Daman|National Life,4.0,+971-93061827,https://www.sharjah1.example.com
+Sharjah Specialty Clinic 2,"Sector 50, Sharjah",Sharjah,25.406078,55.387169,cardiology|neurology|oncology|ophthalmology|physiotherapy,National Life|Oman Insurance,4.3,+971-83513194,https://www.sharjah2.example.com
+Sharjah Multicare Hospital 3,"Sector 58, Sharjah",Sharjah,25.378505,55.360047,cardiology|dental|oncology|pediatrics,ADNIC|Bupa|National Life,4.7,+971-56854604,https://www.sharjah3.example.com
+Sharjah Specialty Clinic 4,"Sector 117, Sharjah",Sharjah,25.453952,55.371133,cardiology|dermatology|ophthalmology|pediatrics,Daman|MetLife,4.1,+971-17515986,https://www.sharjah4.example.com
+Sharjah Multicare Hospital 5,"Sector 16, Sharjah",Sharjah,25.264052,55.525375,dental|ent|ophthalmology|orthopedics|pediatrics,Bupa|Oman Insurance,4.4,+971-96229255,https://www.sharjah5.example.com
+Sharjah Specialty Clinic 6,"Sector 8, Sharjah",Sharjah,25.187951,55.543692,cardiology|dental|dermatology|ophthalmology|pediatrics,National Life|Oman Insurance,3.9,+971-66518570,https://www.sharjah6.example.com
+Sharjah Multicare Hospital 7,"Sector 107, Sharjah",Sharjah,25.324039,55.428791,neurology|ophthalmology|pediatrics|physiotherapy,ADNIC|AXA|MetLife,4.9,+971-48118278,https://www.sharjah7.example.com
+Sharjah Specialty Clinic 8,"Sector 97, Sharjah",Sharjah,25.32677,55.417061,cardiology|neurology|ophthalmology|orthopedics,ADNIC|Bupa|Daman,3.9,+971-18622649,https://www.sharjah8.example.com
+Sharjah Multicare Hospital 9,"Sector 44, Sharjah",Sharjah,25.348744,55.423962,oncology|orthopedics|pediatrics,AXA|MetLife|National Life,4.8,+971-04921275,https://www.sharjah9.example.com
+Sharjah Specialty Clinic 10,"Sector 54, Sharjah",Sharjah,25.373475,55.271773,cardiology|dental|ent|oncology,AXA|National Life,4.6,+971-16048661,https://www.sharjah10.example.com
+Sharjah Multicare Hospital 11,"Sector 48, Sharjah",Sharjah,25.336382,55.321026,dental|neurology|oncology|orthopedics|physiotherapy,ADNIC|Oman Insurance,4.5,+971-81891858,https://www.sharjah11.example.com
+Sharjah Specialty Clinic 12,"Sector 75, Sharjah",Sharjah,25.32929,55.409044,cardiology|oncology|ophthalmology|orthopedics,ADNIC|AXA|National Life,4.8,+971-38018126,https://www.sharjah12.example.com
+Sharjah Multicare Hospital 13,"Sector 115, Sharjah",Sharjah,25.430559,55.394658,dermatology|ent|ophthalmology,ADNIC|Bupa,4.0,+971-99831738,https://www.sharjah13.example.com
+Sharjah Specialty Clinic 14,"Sector 40, Sharjah",Sharjah,25.260411,55.509428,dental|ophthalmology|pediatrics,ADNIC|MetLife,4.9,+971-98728424,https://www.sharjah14.example.com
+Sharjah Multicare Hospital 15,"Sector 74, Sharjah",Sharjah,25.457101,55.420941,cardiology|dermatology|ent,AXA|Bupa|Oman Insurance,4.2,+971-01896965,https://www.sharjah15.example.com
+Sharjah Specialty Clinic 16,"Sector 75, Sharjah",Sharjah,25.292555,55.398473,cardiology|dental|ent|neurology,ADNIC|AXA|MetLife,4.7,+971-02536208,https://www.sharjah16.example.com
+Sharjah Multicare Hospital 17,"Sector 51, Sharjah",Sharjah,25.331861,55.448601,dermatology|ent|neurology|oncology,MetLife|National Life|Oman Insurance,4.2,+971-60792125,https://www.sharjah17.example.com
+Sharjah Specialty Clinic 18,"Sector 48, Sharjah",Sharjah,25.345524,55.413117,cardiology|dental|pediatrics,AXA|Bupa,4.5,+971-32257605,https://www.sharjah18.example.com
+Sharjah Multicare Hospital 19,"Sector 33, Sharjah",Sharjah,25.375443,55.479418,dental|ent|oncology|ophthalmology,AXA|Daman|MetLife,4.6,+971-07361151,https://www.sharjah19.example.com
+Sharjah Specialty Clinic 20,"Sector 8, Sharjah",Sharjah,25.403877,55.507783,cardiology|dermatology|neurology|oncology|orthopedics,ADNIC|AXA|National Life,4.3,+971-68575104,https://www.sharjah20.example.com
+Sharjah Multicare Hospital 21,"Sector 93, Sharjah",Sharjah,25.400115,55.52277,cardiology|dermatology|neurology,MetLife|Oman Insurance,4.6,+971-06844328,https://www.sharjah21.example.com
+Sharjah Specialty Clinic 22,"Sector 42, Sharjah",Sharjah,25.303222,55.57929,cardiology|neurology|pediatrics,Bupa|MetLife,4.3,+971-73310986,https://www.sharjah22.example.com
+Sharjah Multicare Hospital 23,"Sector 77, Sharjah",Sharjah,25.414021,55.394091,dermatology|ophthalmology|orthopedics,ADNIC|Daman|MetLife,4.3,+971-96755903,https://www.sharjah23.example.com
+Sharjah Specialty Clinic 24,"Sector 78, Sharjah",Sharjah,25.36189,55.387244,cardiology|dental|neurology,ADNIC|AXA|Bupa,4.0,+971-86253289,https://www.sharjah24.example.com
+Sharjah Multicare Hospital 25,"Sector 17, Sharjah",Sharjah,25.338175,55.40136,cardiology|dental|orthopedics|pediatrics,MetLife|National Life,4.7,+971-54020445,https://www.sharjah25.example.com
+Sharjah Specialty Clinic 26,"Sector 65, Sharjah",Sharjah,25.346726,55.401425,dental|dermatology|oncology|ophthalmology,Daman|National Life|Oman Insurance,4.1,+971-45583054,https://www.sharjah26.example.com
+Sharjah Multicare Hospital 27,"Sector 6, Sharjah",Sharjah,25.417335,55.394487,dermatology|oncology|ophthalmology,AXA|Oman Insurance,4.4,+971-90656922,https://www.sharjah27.example.com
+Sharjah Specialty Clinic 28,"Sector 41, Sharjah",Sharjah,25.325737,55.401104,cardiology|ophthalmology|orthopedics,Daman|National Life,4.6,+971-40092927,https://www.sharjah28.example.com
+Sharjah Multicare Hospital 29,"Sector 62, Sharjah",Sharjah,25.387117,55.570705,neurology|oncology|ophthalmology|pediatrics|physiotherapy,MetLife|Oman Insurance,4.6,+971-45877700,https://www.sharjah29.example.com
+Sharjah Specialty Clinic 30,"Sector 96, Sharjah",Sharjah,25.376879,55.394872,oncology|ophthalmology|physiotherapy,Bupa|Daman|National Life,4.4,+971-01934108,https://www.sharjah30.example.com
+Sharjah Multicare Hospital 31,"Sector 47, Sharjah",Sharjah,25.346338,55.410406,cardiology|dermatology|oncology|ophthalmology|orthopedics,ADNIC|MetLife|National Life,4.2,+971-92000720,https://www.sharjah31.example.com
+Sharjah Specialty Clinic 32,"Sector 52, Sharjah",Sharjah,25.325054,55.480809,cardiology|ent|physiotherapy,ADNIC|MetLife,4.2,+971-36899609,https://www.sharjah32.example.com
+Sharjah Multicare Hospital 33,"Sector 67, Sharjah",Sharjah,25.342172,55.402819,ent|pediatrics|physiotherapy,ADNIC|Daman,4.0,+971-37198660,https://www.sharjah33.example.com
+Sharjah Specialty Clinic 34,"Sector 84, Sharjah",Sharjah,25.356112,55.49357,cardiology|ent|oncology|ophthalmology|pediatrics,ADNIC|Daman|National Life,4.5,+971-27625344,https://www.sharjah34.example.com
+Sharjah Multicare Hospital 35,"Sector 11, Sharjah",Sharjah,25.375361,55.446511,cardiology|dental|oncology|ophthalmology|orthopedics,ADNIC|National Life|Oman Insurance,4.4,+971-79726695,https://www.sharjah35.example.com
+Sharjah Specialty Clinic 36,"Sector 41, Sharjah",Sharjah,25.254978,55.432463,dental|dermatology|orthopedics|pediatrics,ADNIC|Bupa|National Life,4.9,+971-42109157,https://www.sharjah36.example.com
+Sharjah Multicare Hospital 37,"Sector 57, Sharjah",Sharjah,25.338003,55.2977,cardiology|neurology|ophthalmology|orthopedics|pediatrics,ADNIC|Daman|Oman Insurance,4.7,+971-14541637,https://www.sharjah37.example.com
+Sharjah Specialty Clinic 38,"Sector 26, Sharjah",Sharjah,25.264412,55.372987,cardiology|dental|dermatology|physiotherapy,Bupa|MetLife|National Life,4.2,+971-77475486,https://www.sharjah38.example.com
+Sharjah Multicare Hospital 39,"Sector 56, Sharjah",Sharjah,25.200117,55.383226,dermatology|pediatrics|physiotherapy,AXA|National Life|Oman Insurance,4.8,+971-11041322,https://www.sharjah39.example.com
+Sharjah Specialty Clinic 40,"Sector 110, Sharjah",Sharjah,25.437358,55.531187,cardiology|dental|neurology|physiotherapy,Bupa|National Life,4.1,+971-83921429,https://www.sharjah40.example.com
+Sharjah Multicare Hospital 41,"Sector 65, Sharjah",Sharjah,25.30255,55.478122,neurology|ophthalmology|orthopedics|physiotherapy,Bupa|Daman,4.4,+971-11451469,https://www.sharjah41.example.com
+Sharjah Specialty Clinic 42,"Sector 23, Sharjah",Sharjah,25.323888,55.477363,cardiology|neurology|ophthalmology|orthopedics,Daman|MetLife,4.6,+971-23450394,https://www.sharjah42.example.com
+Sharjah Multicare Hospital 43,"Sector 109, Sharjah",Sharjah,25.345617,55.428436,dental|oncology|orthopedics,ADNIC|MetLife|National Life,4.8,+971-84535724,https://www.sharjah43.example.com
+Sharjah Specialty Clinic 44,"Sector 58, Sharjah",Sharjah,25.31236,55.247935,dental|dermatology|neurology|physiotherapy,Bupa|MetLife,3.9,+971-25295317,https://www.sharjah44.example.com
+Sharjah Multicare Hospital 45,"Sector 98, Sharjah",Sharjah,25.29193,55.318663,cardiology|ophthalmology|orthopedics,ADNIC|Bupa,3.9,+971-19341906,https://www.sharjah45.example.com
+Sharjah Specialty Clinic 46,"Sector 91, Sharjah",Sharjah,25.303522,55.441202,dermatology|ent|orthopedics|pediatrics|physiotherapy,ADNIC|MetLife|Oman Insurance,3.8,+971-72167098,https://www.sharjah46.example.com
+Sharjah Multicare Hospital 47,"Sector 68, Sharjah",Sharjah,25.366911,55.43954,ent|neurology|oncology|pediatrics,ADNIC|AXA|National Life,4.0,+971-65436440,https://www.sharjah47.example.com
+Sharjah Specialty Clinic 48,"Sector 30, Sharjah",Sharjah,25.408256,55.415039,oncology|ophthalmology|pediatrics,Daman|National Life|Oman Insurance,3.8,+971-98649995,https://www.sharjah48.example.com
+Sharjah Multicare Hospital 49,"Sector 21, Sharjah",Sharjah,25.418614,55.36326,dental|orthopedics|physiotherapy,ADNIC|MetLife,3.8,+971-31070039,https://www.sharjah49.example.com
+Sharjah Specialty Clinic 50,"Sector 57, Sharjah",Sharjah,25.349793,55.321185,cardiology|dental|physiotherapy,Daman|National Life,4.8,+971-20029428,https://www.sharjah50.example.com
+Ajman Multicare Hospital 1,"Sector 109, Ajman",Ajman,25.496553,55.490538,cardiology|oncology|ophthalmology|physiotherapy,AXA|National Life,4.7,+971-12276599,https://www.ajman1.example.com
+Ajman Specialty Clinic 2,"Sector 62, Ajman",Ajman,25.406872,55.4878,dermatology|oncology|ophthalmology|orthopedics|physiotherapy,ADNIC|AXA|Oman Insurance,4.7,+971-83274198,https://www.ajman2.example.com
+Ajman Multicare Hospital 3,"Sector 30, Ajman",Ajman,25.359643,55.536708,dental|ent|oncology|ophthalmology|pediatrics,AXA|Daman|Oman Insurance,4.0,+971-09651160,https://www.ajman3.example.com
+Ajman Specialty Clinic 4,"Sector 54, Ajman",Ajman,25.462336,55.525496,cardiology|ent|ophthalmology|pediatrics|physiotherapy,Bupa|MetLife,4.2,+971-36381563,https://www.ajman4.example.com
+Ajman Multicare Hospital 5,"Sector 79, Ajman",Ajman,25.385897,55.498958,ophthalmology|pediatrics|physiotherapy,ADNIC|Daman|Oman Insurance,4.4,+971-90368266,https://www.ajman5.example.com
+Ajman Specialty Clinic 6,"Sector 102, Ajman",Ajman,25.380463,55.524712,dermatology|ent|pediatrics,Daman|MetLife,4.0,+971-06713967,https://www.ajman6.example.com
+Ajman Multicare Hospital 7,"Sector 69, Ajman",Ajman,25.364912,55.472924,cardiology|dental|dermatology|neurology,AXA|Bupa,3.9,+971-50370208,https://www.ajman7.example.com
+Ajman Specialty Clinic 8,"Sector 90, Ajman",Ajman,25.371789,55.4823,cardiology|dermatology|ophthalmology|pediatrics,ADNIC|AXA,4.5,+971-79087522,https://www.ajman8.example.com
+Ajman Multicare Hospital 9,"Sector 71, Ajman",Ajman,25.412255,55.411361,cardiology|ent|oncology,ADNIC|MetLife|Oman Insurance,4.3,+971-66056551,https://www.ajman9.example.com
+Ajman Specialty Clinic 10,"Sector 79, Ajman",Ajman,25.419019,55.561225,ent|neurology|ophthalmology,ADNIC|AXA|Bupa,4.1,+971-99160552,https://www.ajman10.example.com
+Ajman Multicare Hospital 11,"Sector 13, Ajman",Ajman,25.57237,55.425966,cardiology|dental|physiotherapy,Bupa|Daman|Oman Insurance,4.8,+971-54614928,https://www.ajman11.example.com
+Ajman Specialty Clinic 12,"Sector 3, Ajman",Ajman,25.39232,55.439335,neurology|oncology|pediatrics,Daman|MetLife,4.5,+971-02260853,https://www.ajman12.example.com
+Ajman Multicare Hospital 13,"Sector 82, Ajman",Ajman,25.398972,55.490565,dermatology|ent|ophthalmology|physiotherapy,ADNIC|Daman|MetLife,4.2,+971-02949495,https://www.ajman13.example.com
+Ajman Specialty Clinic 14,"Sector 5, Ajman",Ajman,25.386855,55.504747,dental|neurology|oncology|ophthalmology,Bupa|Daman,4.7,+971-77046547,https://www.ajman14.example.com
+Ajman Multicare Hospital 15,"Sector 93, Ajman",Ajman,25.393713,55.584149,cardiology|ent|physiotherapy,ADNIC|Oman Insurance,3.9,+971-40888792,https://www.ajman15.example.com
+Ajman Specialty Clinic 16,"Sector 72, Ajman",Ajman,25.443376,55.483676,dermatology|ent|oncology|ophthalmology|physiotherapy,AXA|Bupa,4.4,+971-85259541,https://www.ajman16.example.com
+Ajman Multicare Hospital 17,"Sector 2, Ajman",Ajman,25.416382,55.480474,dental|dermatology|oncology|physiotherapy,AXA|Oman Insurance,4.7,+971-75907927,https://www.ajman17.example.com
+Ajman Specialty Clinic 18,"Sector 16, Ajman",Ajman,25.45283,55.513679,dental|dermatology|ent|orthopedics|pediatrics,AXA|MetLife|Oman Insurance,4.9,+971-11689166,https://www.ajman18.example.com
+Ajman Multicare Hospital 19,"Sector 7, Ajman",Ajman,25.422188,55.502384,dermatology|ophthalmology|orthopedics,ADNIC|Daman|Oman Insurance,4.3,+971-25386892,https://www.ajman19.example.com
+Ajman Specialty Clinic 20,"Sector 22, Ajman",Ajman,25.382636,55.534188,cardiology|dental|dermatology|ophthalmology|physiotherapy,ADNIC|Bupa|MetLife,4.1,+971-59402804,https://www.ajman20.example.com
+Ajman Multicare Hospital 21,"Sector 58, Ajman",Ajman,25.510313,55.492927,cardiology|dermatology|neurology|ophthalmology|pediatrics,AXA|Daman|Oman Insurance,3.9,+971-40999049,https://www.ajman21.example.com
+Ajman Specialty Clinic 22,"Sector 100, Ajman",Ajman,25.357288,55.564553,neurology|ophthalmology|orthopedics|physiotherapy,ADNIC|Daman|Oman Insurance,3.9,+971-62219591,https://www.ajman22.example.com
+Ajman Multicare Hospital 23,"Sector 97, Ajman",Ajman,25.396936,55.468733,cardiology|ent|oncology,Bupa|MetLife|National Life,4.7,+971-98891238,https://www.ajman23.example.com
+Ajman Specialty Clinic 24,"Sector 35, Ajman",Ajman,25.434128,55.530079,cardiology|dermatology|oncology|orthopedics|physiotherapy,ADNIC|Bupa,3.9,+971-97814655,https://www.ajman24.example.com
+Ajman Multicare Hospital 25,"Sector 26, Ajman",Ajman,25.412922,55.514199,ent|neurology|oncology,Daman|National Life,4.0,+971-37354171,https://www.ajman25.example.com
+Ajman Specialty Clinic 26,"Sector 72, Ajman",Ajman,25.483143,55.482939,cardiology|oncology|ophthalmology|orthopedics|pediatrics,AXA|Oman Insurance,4.6,+971-66974944,https://www.ajman26.example.com
+Ajman Multicare Hospital 27,"Sector 79, Ajman",Ajman,25.50451,55.60168,ent|orthopedics|pediatrics,ADNIC|National Life|Oman Insurance,4.4,+971-05159718,https://www.ajman27.example.com
+Ajman Specialty Clinic 28,"Sector 119, Ajman",Ajman,25.329917,55.511532,cardiology|orthopedics|pediatrics|physiotherapy,Bupa|National Life|Oman Insurance,4.0,+971-68318129,https://www.ajman28.example.com
+Ajman Multicare Hospital 29,"Sector 106, Ajman",Ajman,25.435396,55.356684,dental|ent|oncology|orthopedics|pediatrics,AXA|Daman|National Life,4.3,+971-01814725,https://www.ajman29.example.com
+Ajman Specialty Clinic 30,"Sector 46, Ajman",Ajman,25.453716,55.581233,dermatology|ent|pediatrics,Bupa|Daman|National Life,4.2,+971-29804259,https://www.ajman30.example.com
+Ajman Multicare Hospital 31,"Sector 21, Ajman",Ajman,25.418773,55.562054,neurology|oncology|ophthalmology,Daman|Oman Insurance,4.0,+971-56484420,https://www.ajman31.example.com
+Ajman Specialty Clinic 32,"Sector 39, Ajman",Ajman,25.425814,55.507563,dental|neurology|oncology|ophthalmology,ADNIC|Bupa,4.4,+971-35318189,https://www.ajman32.example.com
+Ajman Multicare Hospital 33,"Sector 97, Ajman",Ajman,25.340932,55.510615,dental|neurology|ophthalmology,ADNIC|Bupa|Daman,3.8,+971-52434775,https://www.ajman33.example.com
+Ajman Specialty Clinic 34,"Sector 84, Ajman",Ajman,25.40862,55.580034,dental|dermatology|pediatrics|physiotherapy,Daman|National Life|Oman Insurance,4.1,+971-45897101,https://www.ajman34.example.com
+Ajman Multicare Hospital 35,"Sector 60, Ajman",Ajman,25.419318,55.574829,cardiology|ent|oncology|ophthalmology|orthopedics,Bupa|MetLife,4.4,+971-24671606,https://www.ajman35.example.com
+Ajman Specialty Clinic 36,"Sector 32, Ajman",Ajman,25.520779,55.592477,dental|ent|pediatrics,ADNIC|National Life|Oman Insurance,4.1,+971-90629720,https://www.ajman36.example.com
+Ajman Multicare Hospital 37,"Sector 112, Ajman",Ajman,25.340471,55.585728,neurology|oncology|pediatrics,Daman|National Life,4.2,+971-04519895,https://www.ajman37.example.com
+Ajman Specialty Clinic 38,"Sector 31, Ajman",Ajman,25.430005,55.486523,dermatology|ent|neurology|pediatrics|physiotherapy,Daman|National Life,4.6,+971-27359524,https://www.ajman38.example.com
+Ajman Multicare Hospital 39,"Sector 11, Ajman",Ajman,25.391147,55.46158,dental|dermatology|ent|oncology|pediatrics,Bupa|Daman,3.8,+971-33515692,https://www.ajman39.example.com
+Ajman Specialty Clinic 40,"Sector 8, Ajman",Ajman,25.287459,55.481916,cardiology|oncology|orthopedics,AXA|MetLife,3.9,+971-68492543,https://www.ajman40.example.com
+Ajman Multicare Hospital 41,"Sector 13, Ajman",Ajman,25.34863,55.463997,dental|oncology|pediatrics,AXA|MetLife|Oman Insurance,4.0,+971-55231160,https://www.ajman41.example.com
+Ajman Specialty Clinic 42,"Sector 14, Ajman",Ajman,25.351273,55.513464,neurology|oncology|orthopedics|pediatrics,Bupa|Daman|MetLife,4.1,+971-87664159,https://www.ajman42.example.com
+Ajman Multicare Hospital 43,"Sector 82, Ajman",Ajman,25.360763,55.440637,cardiology|dental|ent|oncology,ADNIC|Bupa|National Life,4.6,+971-66415391,https://www.ajman43.example.com
+Ajman Specialty Clinic 44,"Sector 102, Ajman",Ajman,25.407835,55.380513,cardiology|dental|neurology,Bupa|Daman,4.4,+971-21898382,https://www.ajman44.example.com
+Ajman Multicare Hospital 45,"Sector 27, Ajman",Ajman,25.387747,55.549175,cardiology|dental|dermatology|ophthalmology,MetLife|National Life,4.7,+971-15571810,https://www.ajman45.example.com
+Ajman Specialty Clinic 46,"Sector 97, Ajman",Ajman,25.436421,55.591572,cardiology|dental|ent|oncology|orthopedics,ADNIC|Bupa|National Life,4.0,+971-21645318,https://www.ajman46.example.com
+Ajman Multicare Hospital 47,"Sector 46, Ajman",Ajman,25.459803,55.441152,dental|oncology|orthopedics|pediatrics,AXA|Daman|Oman Insurance,4.5,+971-00358004,https://www.ajman47.example.com
+Ajman Specialty Clinic 48,"Sector 6, Ajman",Ajman,25.374923,55.498646,dental|dermatology|neurology|pediatrics|physiotherapy,MetLife|National Life,4.9,+971-53649677,https://www.ajman48.example.com
+Ajman Multicare Hospital 49,"Sector 30, Ajman",Ajman,25.48442,55.485006,cardiology|dental|dermatology|ent|pediatrics,Bupa|MetLife,4.4,+971-66997881,https://www.ajman49.example.com
+Ajman Specialty Clinic 50,"Sector 36, Ajman",Ajman,25.413596,55.537425,ent|ophthalmology|physiotherapy,ADNIC|MetLife,4.0,+971-86449548,https://www.ajman50.example.com
+Umm Al Quwain Multicare Hospital 1,"Sector 71, Umm Al Quwain",Umm Al Quwain,25.60753,55.572831,dermatology|oncology|ophthalmology|orthopedics,ADNIC|National Life|Oman Insurance,4.7,+971-76901302,https://www.ummalquwain1.example.com
+Umm Al Quwain Specialty Clinic 2,"Sector 38, Umm Al Quwain",Umm Al Quwain,25.54124,55.55644,cardiology|dermatology|physiotherapy,ADNIC|Oman Insurance,4.6,+971-59321575,https://www.ummalquwain2.example.com
+Umm Al Quwain Multicare Hospital 3,"Sector 16, Umm Al Quwain",Umm Al Quwain,25.580564,55.524856,cardiology|dermatology|pediatrics,AXA|MetLife,3.9,+971-55732641,https://www.ummalquwain3.example.com
+Umm Al Quwain Specialty Clinic 4,"Sector 44, Umm Al Quwain",Umm Al Quwain,25.472282,55.521824,dermatology|orthopedics|pediatrics|physiotherapy,ADNIC|MetLife|Oman Insurance,4.8,+971-23103695,https://www.ummalquwain4.example.com
+Umm Al Quwain Multicare Hospital 5,"Sector 47, Umm Al Quwain",Umm Al Quwain,25.576808,55.639748,dental|dermatology|neurology|physiotherapy,AXA|Bupa|Daman,4.3,+971-13600966,https://www.ummalquwain5.example.com
+Umm Al Quwain Specialty Clinic 6,"Sector 25, Umm Al Quwain",Umm Al Quwain,25.547124,55.499048,dental|dermatology|neurology|orthopedics|physiotherapy,AXA|Daman|National Life,4.7,+971-94670161,https://www.ummalquwain6.example.com
+Umm Al Quwain Multicare Hospital 7,"Sector 34, Umm Al Quwain",Umm Al Quwain,25.574707,55.468278,cardiology|ent|oncology|ophthalmology|physiotherapy,AXA|Bupa|National Life,4.8,+971-75968625,https://www.ummalquwain7.example.com
+Umm Al Quwain Specialty Clinic 8,"Sector 66, Umm Al Quwain",Umm Al Quwain,25.525588,55.555169,dental|ent|neurology|oncology|physiotherapy,Bupa|MetLife,4.6,+971-00430321,https://www.ummalquwain8.example.com
+Umm Al Quwain Multicare Hospital 9,"Sector 17, Umm Al Quwain",Umm Al Quwain,25.598687,55.533786,cardiology|dermatology|oncology|physiotherapy,AXA|Bupa,4.4,+971-30730473,https://www.ummalquwain9.example.com
+Umm Al Quwain Specialty Clinic 10,"Sector 3, Umm Al Quwain",Umm Al Quwain,25.600742,55.54358,ent|oncology|pediatrics,AXA|Bupa|Oman Insurance,4.1,+971-87220207,https://www.ummalquwain10.example.com
+Umm Al Quwain Multicare Hospital 11,"Sector 84, Umm Al Quwain",Umm Al Quwain,25.693441,55.604768,cardiology|ophthalmology|orthopedics|pediatrics|physiotherapy,Daman|MetLife|National Life,3.9,+971-05158789,https://www.ummalquwain11.example.com
+Umm Al Quwain Specialty Clinic 12,"Sector 102, Umm Al Quwain",Umm Al Quwain,25.530476,55.496793,dermatology|ent|pediatrics,Daman|National Life|Oman Insurance,4.3,+971-30189778,https://www.ummalquwain12.example.com
+Umm Al Quwain Multicare Hospital 13,"Sector 105, Umm Al Quwain",Umm Al Quwain,25.574425,55.605403,cardiology|oncology|orthopedics|pediatrics,ADNIC|Daman,4.8,+971-16113871,https://www.ummalquwain13.example.com
+Umm Al Quwain Specialty Clinic 14,"Sector 26, Umm Al Quwain",Umm Al Quwain,25.53947,55.466339,dermatology|ent|neurology|oncology|orthopedics,AXA|Daman|Oman Insurance,4.0,+971-07347677,https://www.ummalquwain14.example.com
+Umm Al Quwain Multicare Hospital 15,"Sector 75, Umm Al Quwain",Umm Al Quwain,25.595746,55.533313,dermatology|ent|neurology|oncology|orthopedics,Daman|MetLife,4.5,+971-99207991,https://www.ummalquwain15.example.com
+Umm Al Quwain Specialty Clinic 16,"Sector 1, Umm Al Quwain",Umm Al Quwain,25.623681,55.537779,cardiology|dental|dermatology,ADNIC|Daman|MetLife,4.3,+971-26402462,https://www.ummalquwain16.example.com
+Umm Al Quwain Multicare Hospital 17,"Sector 72, Umm Al Quwain",Umm Al Quwain,25.640359,55.57717,oncology|pediatrics|physiotherapy,ADNIC|AXA|Oman Insurance,3.8,+971-71092828,https://www.ummalquwain17.example.com
+Umm Al Quwain Specialty Clinic 18,"Sector 42, Umm Al Quwain",Umm Al Quwain,25.588861,55.595082,oncology|ophthalmology|orthopedics,AXA|Oman Insurance,4.4,+971-80025418,https://www.ummalquwain18.example.com
+Umm Al Quwain Multicare Hospital 19,"Sector 36, Umm Al Quwain",Umm Al Quwain,25.684919,55.653329,cardiology|neurology|physiotherapy,Bupa|MetLife|National Life,4.9,+971-96106403,https://www.ummalquwain19.example.com
+Umm Al Quwain Specialty Clinic 20,"Sector 87, Umm Al Quwain",Umm Al Quwain,25.527891,55.463124,ent|orthopedics|physiotherapy,AXA|Oman Insurance,4.0,+971-00192089,https://www.ummalquwain20.example.com
+Umm Al Quwain Multicare Hospital 21,"Sector 50, Umm Al Quwain",Umm Al Quwain,25.57833,55.63076,dermatology|neurology|pediatrics,Bupa|MetLife|National Life,4.3,+971-91955111,https://www.ummalquwain21.example.com
+Umm Al Quwain Specialty Clinic 22,"Sector 1, Umm Al Quwain",Umm Al Quwain,25.507041,55.558195,cardiology|ent|physiotherapy,Bupa|National Life,4.9,+971-41819198,https://www.ummalquwain22.example.com
+Umm Al Quwain Multicare Hospital 23,"Sector 119, Umm Al Quwain",Umm Al Quwain,25.615966,55.526738,dermatology|ent|pediatrics,AXA|Daman|Oman Insurance,4.8,+971-69758299,https://www.ummalquwain23.example.com
+Umm Al Quwain Specialty Clinic 24,"Sector 13, Umm Al Quwain",Umm Al Quwain,25.462389,55.573865,ent|neurology|ophthalmology,Daman|National Life,4.3,+971-55794808,https://www.ummalquwain24.example.com
+Umm Al Quwain Multicare Hospital 25,"Sector 10, Umm Al Quwain",Umm Al Quwain,25.568309,55.507537,ent|neurology|oncology|orthopedics|pediatrics,ADNIC|Oman Insurance,4.7,+971-99182772,https://www.ummalquwain25.example.com
+Umm Al Quwain Specialty Clinic 26,"Sector 115, Umm Al Quwain",Umm Al Quwain,25.601886,55.51847,dental|ent|ophthalmology,Daman|MetLife,4.7,+971-43338389,https://www.ummalquwain26.example.com
+Umm Al Quwain Multicare Hospital 27,"Sector 92, Umm Al Quwain",Umm Al Quwain,25.530719,55.538571,dental|ent|neurology|orthopedics,ADNIC|Bupa|Daman,4.4,+971-30071073,https://www.ummalquwain27.example.com
+Umm Al Quwain Specialty Clinic 28,"Sector 117, Umm Al Quwain",Umm Al Quwain,25.598197,55.427519,dental|neurology|pediatrics,ADNIC|National Life,4.3,+971-39578583,https://www.ummalquwain28.example.com
+Umm Al Quwain Multicare Hospital 29,"Sector 72, Umm Al Quwain",Umm Al Quwain,25.573641,55.472389,oncology|orthopedics|physiotherapy,National Life|Oman Insurance,4.0,+971-31812906,https://www.ummalquwain29.example.com
+Umm Al Quwain Specialty Clinic 30,"Sector 27, Umm Al Quwain",Umm Al Quwain,25.541983,55.561835,dental|dermatology|ent|ophthalmology|orthopedics,AXA|MetLife,4.7,+971-69166482,https://www.ummalquwain30.example.com
+Umm Al Quwain Multicare Hospital 31,"Sector 100, Umm Al Quwain",Umm Al Quwain,25.551933,55.575723,dermatology|oncology|ophthalmology,MetLife|Oman Insurance,4.3,+971-14384881,https://www.ummalquwain31.example.com
+Umm Al Quwain Specialty Clinic 32,"Sector 116, Umm Al Quwain",Umm Al Quwain,25.555369,55.59347,dental|neurology|orthopedics,ADNIC|MetLife,4.1,+971-09989762,https://www.ummalquwain32.example.com
+Umm Al Quwain Multicare Hospital 33,"Sector 74, Umm Al Quwain",Umm Al Quwain,25.489413,55.518961,dental|ent|ophthalmology|pediatrics|physiotherapy,ADNIC|Bupa|MetLife,4.2,+971-31277598,https://www.ummalquwain33.example.com
+Umm Al Quwain Specialty Clinic 34,"Sector 28, Umm Al Quwain",Umm Al Quwain,25.564302,55.5673,neurology|orthopedics|physiotherapy,Daman|MetLife|Oman Insurance,3.8,+971-99646214,https://www.ummalquwain34.example.com
+Umm Al Quwain Multicare Hospital 35,"Sector 68, Umm Al Quwain",Umm Al Quwain,25.613277,55.557459,cardiology|dermatology|oncology|ophthalmology|physiotherapy,ADNIC|MetLife,4.3,+971-11619756,https://www.ummalquwain35.example.com
+Umm Al Quwain Specialty Clinic 36,"Sector 21, Umm Al Quwain",Umm Al Quwain,25.600992,55.625834,ent|neurology|oncology|ophthalmology|pediatrics,AXA|MetLife|Oman Insurance,4.7,+971-25384315,https://www.ummalquwain36.example.com
+Umm Al Quwain Multicare Hospital 37,"Sector 119, Umm Al Quwain",Umm Al Quwain,25.660517,55.481989,cardiology|dental|neurology|oncology|orthopedics,AXA|National Life,3.9,+971-97139033,https://www.ummalquwain37.example.com
+Umm Al Quwain Specialty Clinic 38,"Sector 49, Umm Al Quwain",Umm Al Quwain,25.471172,55.635127,neurology|ophthalmology|orthopedics|pediatrics,AXA|MetLife|Oman Insurance,4.3,+971-51279695,https://www.ummalquwain38.example.com
+Umm Al Quwain Multicare Hospital 39,"Sector 71, Umm Al Quwain",Umm Al Quwain,25.533532,55.510981,ent|oncology|ophthalmology|pediatrics|physiotherapy,AXA|MetLife,4.8,+971-89578930,https://www.ummalquwain39.example.com
+Umm Al Quwain Specialty Clinic 40,"Sector 80, Umm Al Quwain",Umm Al Quwain,25.559026,55.591919,dental|dermatology|pediatrics,Bupa|MetLife,4.7,+971-63174569,https://www.ummalquwain40.example.com
+Umm Al Quwain Multicare Hospital 41,"Sector 1, Umm Al Quwain",Umm Al Quwain,25.537347,55.498694,cardiology|ent|neurology|orthopedics|pediatrics,AXA|Bupa|Oman Insurance,4.7,+971-55754139,https://www.ummalquwain41.example.com
+Umm Al Quwain Specialty Clinic 42,"Sector 98, Umm Al Quwain",Umm Al Quwain,25.572044,55.552054,dermatology|ent|neurology|orthopedics|physiotherapy,ADNIC|Bupa,4.8,+971-48807070,https://www.ummalquwain42.example.com
+Umm Al Quwain Multicare Hospital 43,"Sector 6, Umm Al Quwain",Umm Al Quwain,25.58032,55.54924,ophthalmology|orthopedics|pediatrics,ADNIC|National Life,4.1,+971-00312813,https://www.ummalquwain43.example.com
+Umm Al Quwain Specialty Clinic 44,"Sector 42, Umm Al Quwain",Umm Al Quwain,25.505526,55.53683,dental|dermatology|ent|oncology|physiotherapy,ADNIC|AXA|MetLife,3.9,+971-59982449,https://www.ummalquwain44.example.com
+Umm Al Quwain Multicare Hospital 45,"Sector 54, Umm Al Quwain",Umm Al Quwain,25.566291,55.485799,dental|dermatology|ent|orthopedics,Bupa|MetLife,3.8,+971-49832909,https://www.ummalquwain45.example.com
+Umm Al Quwain Specialty Clinic 46,"Sector 28, Umm Al Quwain",Umm Al Quwain,25.580659,55.540925,dermatology|oncology|physiotherapy,Bupa|Daman,4.5,+971-80672326,https://www.ummalquwain46.example.com
+Umm Al Quwain Multicare Hospital 47,"Sector 104, Umm Al Quwain",Umm Al Quwain,25.557045,55.504693,cardiology|ophthalmology|orthopedics|pediatrics,AXA|National Life|Oman Insurance,4.4,+971-42095081,https://www.ummalquwain47.example.com
+Umm Al Quwain Specialty Clinic 48,"Sector 54, Umm Al Quwain",Umm Al Quwain,25.509263,55.577355,cardiology|neurology|oncology|ophthalmology,MetLife|Oman Insurance,4.4,+971-24313209,https://www.ummalquwain48.example.com
+Umm Al Quwain Multicare Hospital 49,"Sector 68, Umm Al Quwain",Umm Al Quwain,25.509993,55.680772,dental|dermatology|neurology|ophthalmology,Bupa|Oman Insurance,4.0,+971-02242803,https://www.ummalquwain49.example.com
+Umm Al Quwain Specialty Clinic 50,"Sector 4, Umm Al Quwain",Umm Al Quwain,25.582802,55.501512,dermatology|oncology|orthopedics,ADNIC|Bupa,4.5,+971-86203520,https://www.ummalquwain50.example.com
+Ras Al Khaimah Multicare Hospital 1,"Sector 14, Ras Al Khaimah",Ras Al Khaimah,25.819409,56.040914,dental|dermatology|oncology,ADNIC|AXA|Bupa,3.8,+971-21310260,https://www.rasalkhaimah1.example.com
+Ras Al Khaimah Specialty Clinic 2,"Sector 67, Ras Al Khaimah",Ras Al Khaimah,25.810184,55.988906,cardiology|dental|orthopedics,ADNIC|AXA|Bupa,4.2,+971-31408451,https://www.rasalkhaimah2.example.com
+Ras Al Khaimah Multicare Hospital 3,"Sector 39, Ras Al Khaimah",Ras Al Khaimah,25.839206,55.91144,dental|dermatology|neurology|physiotherapy,ADNIC|MetLife,4.7,+971-29892712,https://www.rasalkhaimah3.example.com
+Ras Al Khaimah Specialty Clinic 4,"Sector 73, Ras Al Khaimah",Ras Al Khaimah,25.748936,56.033043,oncology|ophthalmology|orthopedics,ADNIC|National Life,4.2,+971-80123989,https://www.rasalkhaimah4.example.com
+Ras Al Khaimah Multicare Hospital 5,"Sector 89, Ras Al Khaimah",Ras Al Khaimah,25.79805,56.009291,cardiology|ent|ophthalmology|pediatrics,AXA|Bupa,4.4,+971-97246067,https://www.rasalkhaimah5.example.com
+Ras Al Khaimah Specialty Clinic 6,"Sector 60, Ras Al Khaimah",Ras Al Khaimah,25.772267,56.022791,ent|neurology|oncology|pediatrics,AXA|Daman,4.6,+971-24588808,https://www.rasalkhaimah6.example.com
+Ras Al Khaimah Multicare Hospital 7,"Sector 33, Ras Al Khaimah",Ras Al Khaimah,25.729856,55.943055,dermatology|oncology|orthopedics,Bupa|National Life,4.1,+971-72114018,https://www.rasalkhaimah7.example.com
+Ras Al Khaimah Specialty Clinic 8,"Sector 111, Ras Al Khaimah",Ras Al Khaimah,25.824253,56.009689,dental|dermatology|oncology|orthopedics,ADNIC|AXA,4.9,+971-77482208,https://www.rasalkhaimah8.example.com
+Ras Al Khaimah Multicare Hospital 9,"Sector 9, Ras Al Khaimah",Ras Al Khaimah,25.744602,56.064942,dermatology|ent|ophthalmology,Bupa|Daman|National Life,4.8,+971-16598816,https://www.rasalkhaimah9.example.com
+Ras Al Khaimah Specialty Clinic 10,"Sector 81, Ras Al Khaimah",Ras Al Khaimah,25.761575,55.945442,dental|neurology|oncology|pediatrics|physiotherapy,AXA|Daman,4.6,+971-34866744,https://www.rasalkhaimah10.example.com
+Ras Al Khaimah Multicare Hospital 11,"Sector 89, Ras Al Khaimah",Ras Al Khaimah,25.679573,55.976538,cardiology|dermatology|ophthalmology|orthopedics|physiotherapy,Daman|MetLife|National Life,4.4,+971-40672263,https://www.rasalkhaimah11.example.com
+Ras Al Khaimah Specialty Clinic 12,"Sector 93, Ras Al Khaimah",Ras Al Khaimah,25.780955,56.119572,ent|oncology|ophthalmology|pediatrics,AXA|National Life|Oman Insurance,3.9,+971-29303044,https://www.rasalkhaimah12.example.com
+Ras Al Khaimah Multicare Hospital 13,"Sector 104, Ras Al Khaimah",Ras Al Khaimah,25.804133,55.946756,cardiology|dental|dermatology|ent|pediatrics,ADNIC|Daman,3.9,+971-46591212,https://www.rasalkhaimah13.example.com
+Ras Al Khaimah Specialty Clinic 14,"Sector 38, Ras Al Khaimah",Ras Al Khaimah,25.841034,55.983211,dental|ent|oncology|ophthalmology|pediatrics,ADNIC|AXA|Bupa,4.6,+971-77479721,https://www.rasalkhaimah14.example.com
+Ras Al Khaimah Multicare Hospital 15,"Sector 108, Ras Al Khaimah",Ras Al Khaimah,25.737281,55.997506,oncology|pediatrics|physiotherapy,ADNIC|Bupa|MetLife,4.9,+971-15137686,https://www.rasalkhaimah15.example.com
+Ras Al Khaimah Specialty Clinic 16,"Sector 55, Ras Al Khaimah",Ras Al Khaimah,25.722773,56.025835,cardiology|dental|oncology|orthopedics|physiotherapy,Bupa|Oman Insurance,4.8,+971-91573876,https://www.rasalkhaimah16.example.com
+Ras Al Khaimah Multicare Hospital 17,"Sector 86, Ras Al Khaimah",Ras Al Khaimah,25.685072,55.967438,dental|neurology|ophthalmology,MetLife|Oman Insurance,4.0,+971-60748944,https://www.rasalkhaimah17.example.com
+Ras Al Khaimah Specialty Clinic 18,"Sector 26, Ras Al Khaimah",Ras Al Khaimah,25.866681,55.977574,dermatology|oncology|ophthalmology,National Life|Oman Insurance,4.4,+971-10166954,https://www.rasalkhaimah18.example.com
+Ras Al Khaimah Multicare Hospital 19,"Sector 68, Ras Al Khaimah",Ras Al Khaimah,25.78664,55.898098,cardiology|dermatology|ent,ADNIC|National Life,4.4,+971-92172516,https://www.rasalkhaimah19.example.com
+Ras Al Khaimah Specialty Clinic 20,"Sector 60, Ras Al Khaimah",Ras Al Khaimah,25.731627,56.020946,cardiology|dermatology|ophthalmology|orthopedics|physiotherapy,ADNIC|Daman|Oman Insurance,4.2,+971-91138617,https://www.rasalkhaimah20.example.com
+Ras Al Khaimah Multicare Hospital 21,"Sector 40, Ras Al Khaimah",Ras Al Khaimah,25.840022,56.024666,dermatology|ent|oncology|orthopedics|physiotherapy,Daman|National Life,4.4,+971-25214086,https://www.rasalkhaimah21.example.com
+Ras Al Khaimah Specialty Clinic 22,"Sector 35, Ras Al Khaimah",Ras Al Khaimah,25.811915,55.950734,cardiology|dental|dermatology|oncology|physiotherapy,AXA|Oman Insurance,3.9,+971-86675206,https://www.rasalkhaimah22.example.com
+Ras Al Khaimah Multicare Hospital 23,"Sector 107, Ras Al Khaimah",Ras Al Khaimah,25.759838,55.997841,dental|dermatology|pediatrics,Bupa|MetLife|Oman Insurance,3.9,+971-33467506,https://www.rasalkhaimah23.example.com
+Ras Al Khaimah Specialty Clinic 24,"Sector 61, Ras Al Khaimah",Ras Al Khaimah,25.783903,55.927637,ent|orthopedics|pediatrics|physiotherapy,ADNIC|Daman,4.5,+971-13269752,https://www.rasalkhaimah24.example.com
+Ras Al Khaimah Multicare Hospital 25,"Sector 100, Ras Al Khaimah",Ras Al Khaimah,25.843772,55.929698,dental|ophthalmology|physiotherapy,Bupa|Daman|National Life,4.9,+971-24296088,https://www.rasalkhaimah25.example.com
+Ras Al Khaimah Specialty Clinic 26,"Sector 79, Ras Al Khaimah",Ras Al Khaimah,25.844515,56.030278,cardiology|neurology|oncology|ophthalmology,AXA|Bupa,4.1,+971-11811223,https://www.rasalkhaimah26.example.com
+Ras Al Khaimah Multicare Hospital 27,"Sector 25, Ras Al Khaimah",Ras Al Khaimah,25.856453,55.913579,dermatology|neurology|pediatrics|physiotherapy,Bupa|National Life,4.2,+971-56715594,https://www.rasalkhaimah27.example.com
+Ras Al Khaimah Specialty Clinic 28,"Sector 32, Ras Al Khaimah",Ras Al Khaimah,25.765025,55.92966,cardiology|dermatology|neurology|oncology,AXA|Daman|MetLife,4.1,+971-84217596,https://www.rasalkhaimah28.example.com
+Ras Al Khaimah Multicare Hospital 29,"Sector 47, Ras Al Khaimah",Ras Al Khaimah,25.750652,55.969376,dental|ent|neurology|ophthalmology|pediatrics,ADNIC|AXA|Daman,4.2,+971-34856633,https://www.rasalkhaimah29.example.com
+Ras Al Khaimah Specialty Clinic 30,"Sector 21, Ras Al Khaimah",Ras Al Khaimah,25.69303,55.89915,neurology|oncology|pediatrics,Bupa|MetLife|National Life,4.2,+971-85919986,https://www.rasalkhaimah30.example.com
+Ras Al Khaimah Multicare Hospital 31,"Sector 114, Ras Al Khaimah",Ras Al Khaimah,25.867512,55.939177,dermatology|ent|pediatrics,ADNIC|Daman,4.2,+971-23903998,https://www.rasalkhaimah31.example.com
+Ras Al Khaimah Specialty Clinic 32,"Sector 100, Ras Al Khaimah",Ras Al Khaimah,25.732219,56.002537,cardiology|ent|neurology|orthopedics,Daman|MetLife|National Life,4.7,+971-58164468,https://www.rasalkhaimah32.example.com
+Ras Al Khaimah Multicare Hospital 33,"Sector 30, Ras Al Khaimah",Ras Al Khaimah,25.798585,55.969362,dermatology|neurology|ophthalmology,ADNIC|Daman,4.1,+971-85999295,https://www.rasalkhaimah33.example.com
+Ras Al Khaimah Specialty Clinic 34,"Sector 70, Ras Al Khaimah",Ras Al Khaimah,25.8972,56.002468,cardiology|neurology|ophthalmology|orthopedics|pediatrics,Daman|MetLife|Oman Insurance,3.9,+971-42180806,https://www.rasalkhaimah34.example.com
+Ras Al Khaimah Multicare Hospital 35,"Sector 26, Ras Al Khaimah",Ras Al Khaimah,25.883565,56.049012,dental|dermatology|ent|pediatrics|physiotherapy,AXA|National Life,4.9,+971-70760995,https://www.rasalkhaimah35.example.com
+Ras Al Khaimah Specialty Clinic 36,"Sector 62, Ras Al Khaimah",Ras Al Khaimah,25.712338,55.913735,dental|ent|oncology|orthopedics,ADNIC|Bupa,4.6,+971-00816936,https://www.rasalkhaimah36.example.com
+Ras Al Khaimah Multicare Hospital 37,"Sector 84, Ras Al Khaimah",Ras Al Khaimah,25.688744,56.035839,cardiology|oncology|ophthalmology|orthopedics,Bupa|MetLife,4.9,+971-55374684,https://www.rasalkhaimah37.example.com
+Ras Al Khaimah Specialty Clinic 38,"Sector 4, Ras Al Khaimah",Ras Al Khaimah,25.852483,56.016039,dermatology|ent|orthopedics|pediatrics,AXA|Oman Insurance,4.8,+971-36193309,https://www.rasalkhaimah38.example.com
+Ras Al Khaimah Multicare Hospital 39,"Sector 117, Ras Al Khaimah",Ras Al Khaimah,25.780133,55.92716,cardiology|dermatology|ent|pediatrics,Bupa|Daman|National Life,4.8,+971-39270801,https://www.rasalkhaimah39.example.com
+Ras Al Khaimah Specialty Clinic 40,"Sector 114, Ras Al Khaimah",Ras Al Khaimah,25.780775,56.024654,cardiology|ent|neurology|ophthalmology|physiotherapy,MetLife|Oman Insurance,4.6,+971-18698540,https://www.rasalkhaimah40.example.com
+Ras Al Khaimah Multicare Hospital 41,"Sector 19, Ras Al Khaimah",Ras Al Khaimah,25.77211,55.946668,cardiology|dermatology|ophthalmology|orthopedics|pediatrics,Daman|MetLife|Oman Insurance,3.9,+971-93687784,https://www.rasalkhaimah41.example.com
+Ras Al Khaimah Specialty Clinic 42,"Sector 62, Ras Al Khaimah",Ras Al Khaimah,25.794855,56.04297,cardiology|dermatology|orthopedics|physiotherapy,Bupa|MetLife|National Life,4.7,+971-69405761,https://www.rasalkhaimah42.example.com
+Ras Al Khaimah Multicare Hospital 43,"Sector 43, Ras Al Khaimah",Ras Al Khaimah,25.857054,56.004008,dental|dermatology|pediatrics,AXA|MetLife|National Life,4.1,+971-54431580,https://www.rasalkhaimah43.example.com
+Ras Al Khaimah Specialty Clinic 44,"Sector 65, Ras Al Khaimah",Ras Al Khaimah,25.753132,55.992361,cardiology|oncology|ophthalmology,Bupa|MetLife,4.4,+971-60582657,https://www.rasalkhaimah44.example.com
+Ras Al Khaimah Multicare Hospital 45,"Sector 102, Ras Al Khaimah",Ras Al Khaimah,25.837551,56.033988,cardiology|neurology|oncology|orthopedics|physiotherapy,ADNIC|Oman Insurance,3.8,+971-03226937,https://www.rasalkhaimah45.example.com
+Ras Al Khaimah Specialty Clinic 46,"Sector 3, Ras Al Khaimah",Ras Al Khaimah,25.882576,56.000857,cardiology|ent|neurology,AXA|Bupa|Oman Insurance,4.3,+971-23348890,https://www.rasalkhaimah46.example.com
+Ras Al Khaimah Multicare Hospital 47,"Sector 14, Ras Al Khaimah",Ras Al Khaimah,25.860496,55.98825,oncology|ophthalmology|orthopedics,AXA|Bupa|Oman Insurance,4.6,+971-56446256,https://www.rasalkhaimah47.example.com
+Ras Al Khaimah Specialty Clinic 48,"Sector 12, Ras Al Khaimah",Ras Al Khaimah,25.761782,55.92072,oncology|orthopedics|physiotherapy,AXA|National Life|Oman Insurance,4.6,+971-89337074,https://www.rasalkhaimah48.example.com
+Ras Al Khaimah Multicare Hospital 49,"Sector 105, Ras Al Khaimah",Ras Al Khaimah,25.733115,55.988857,cardiology|neurology|oncology|orthopedics|pediatrics,ADNIC|Oman Insurance,4.0,+971-17696484,https://www.rasalkhaimah49.example.com
+Ras Al Khaimah Specialty Clinic 50,"Sector 69, Ras Al Khaimah",Ras Al Khaimah,25.796342,56.024208,cardiology|oncology|orthopedics,AXA|Bupa|Oman Insurance,4.2,+971-84893431,https://www.rasalkhaimah50.example.com
+Fujairah Multicare Hospital 1,"Sector 69, Fujairah",Fujairah,25.14087,56.385219,cardiology|dental|pediatrics|physiotherapy,ADNIC|AXA|Oman Insurance,3.9,+971-99368438,https://www.fujairah1.example.com
+Fujairah Specialty Clinic 2,"Sector 107, Fujairah",Fujairah,25.172676,56.346317,cardiology|dermatology|oncology|ophthalmology|physiotherapy,AXA|MetLife|National Life,4.7,+971-45414839,https://www.fujairah2.example.com
+Fujairah Multicare Hospital 3,"Sector 100, Fujairah",Fujairah,25.102794,56.274152,ent|ophthalmology|orthopedics|pediatrics|physiotherapy,Daman|MetLife,4.5,+971-40805029,https://www.fujairah3.example.com
+Fujairah Specialty Clinic 4,"Sector 30, Fujairah",Fujairah,25.218067,56.325365,dental|neurology|orthopedics|pediatrics,ADNIC|AXA|Bupa,4.8,+971-75940822,https://www.fujairah4.example.com
+Fujairah Multicare Hospital 5,"Sector 96, Fujairah",Fujairah,25.185948,56.352275,cardiology|oncology|orthopedics,AXA|Bupa|Daman,4.3,+971-97438801,https://www.fujairah5.example.com
+Fujairah Specialty Clinic 6,"Sector 1, Fujairah",Fujairah,25.153623,56.314049,cardiology|ent|oncology|ophthalmology,ADNIC|MetLife|National Life,4.9,+971-24327925,https://www.fujairah6.example.com
+Fujairah Multicare Hospital 7,"Sector 82, Fujairah",Fujairah,25.1548,56.265184,cardiology|ent|ophthalmology|pediatrics,AXA|Oman Insurance,4.8,+971-05123556,https://www.fujairah7.example.com
+Fujairah Specialty Clinic 8,"Sector 44, Fujairah",Fujairah,25.09441,56.292763,ent|neurology|ophthalmology|pediatrics,AXA|Daman|National Life,4.8,+971-95580545,https://www.fujairah8.example.com
+Fujairah Multicare Hospital 9,"Sector 98, Fujairah",Fujairah,25.136984,56.309025,ent|neurology|ophthalmology|orthopedics,ADNIC|AXA,4.0,+971-02803779,https://www.fujairah9.example.com
+Fujairah Specialty Clinic 10,"Sector 72, Fujairah",Fujairah,25.083791,56.293364,dental|neurology|pediatrics|physiotherapy,AXA|Daman|Oman Insurance,4.3,+971-12833242,https://www.fujairah10.example.com
+Fujairah Multicare Hospital 11,"Sector 44, Fujairah",Fujairah,25.138513,56.348772,ent|neurology|pediatrics,Bupa|National Life,4.1,+971-54044804,https://www.fujairah11.example.com
+Fujairah Specialty Clinic 12,"Sector 86, Fujairah",Fujairah,25.126996,56.398765,cardiology|neurology|oncology|orthopedics|physiotherapy,ADNIC|Daman,4.5,+971-27649242,https://www.fujairah12.example.com
+Fujairah Multicare Hospital 13,"Sector 17, Fujairah",Fujairah,25.167423,56.344627,cardiology|ophthalmology|pediatrics|physiotherapy,Daman|MetLife,4.6,+971-73548716,https://www.fujairah13.example.com
+Fujairah Specialty Clinic 14,"Sector 78, Fujairah",Fujairah,25.188568,56.307779,dental|oncology|ophthalmology,ADNIC|Daman|MetLife,4.2,+971-57042751,https://www.fujairah14.example.com
+Fujairah Multicare Hospital 15,"Sector 30, Fujairah",Fujairah,25.272957,56.332301,neurology|oncology|physiotherapy,Daman|National Life|Oman Insurance,4.9,+971-49405608,https://www.fujairah15.example.com
+Fujairah Specialty Clinic 16,"Sector 8, Fujairah",Fujairah,25.122692,56.374365,cardiology|dental|dermatology|ent|oncology,ADNIC|Daman|MetLife,4.7,+971-72612146,https://www.fujairah16.example.com
+Fujairah Multicare Hospital 17,"Sector 95, Fujairah",Fujairah,25.113833,56.286395,dental|neurology|orthopedics|pediatrics|physiotherapy,ADNIC|MetLife|National Life,4.9,+971-63887064,https://www.fujairah17.example.com
+Fujairah Specialty Clinic 18,"Sector 13, Fujairah",Fujairah,25.120126,56.357983,cardiology|dermatology|ent|ophthalmology,ADNIC|Daman|MetLife,4.0,+971-02848850,https://www.fujairah18.example.com
+Fujairah Multicare Hospital 19,"Sector 107, Fujairah",Fujairah,25.10679,56.38552,cardiology|oncology|physiotherapy,MetLife|National Life|Oman Insurance,4.1,+971-67625493,https://www.fujairah19.example.com
+Fujairah Specialty Clinic 20,"Sector 87, Fujairah",Fujairah,25.090742,56.234517,cardiology|ent|oncology|physiotherapy,Daman|MetLife|Oman Insurance,4.3,+971-94880486,https://www.fujairah20.example.com
+Fujairah Multicare Hospital 21,"Sector 87, Fujairah",Fujairah,25.112215,56.249418,dental|neurology|physiotherapy,AXA|Daman|National Life,4.6,+971-79214020,https://www.fujairah21.example.com
+Fujairah Specialty Clinic 22,"Sector 4, Fujairah",Fujairah,25.203642,56.391929,dental|neurology|ophthalmology|orthopedics|physiotherapy,AXA|National Life,4.4,+971-08384605,https://www.fujairah22.example.com
+Fujairah Multicare Hospital 23,"Sector 83, Fujairah",Fujairah,25.124708,56.37282,dental|neurology|orthopedics,AXA|Daman,4.8,+971-13756613,https://www.fujairah23.example.com
+Fujairah Specialty Clinic 24,"Sector 9, Fujairah",Fujairah,25.079943,56.409849,ent|neurology|physiotherapy,ADNIC|Bupa|Daman,4.3,+971-43917961,https://www.fujairah24.example.com
+Fujairah Multicare Hospital 25,"Sector 96, Fujairah",Fujairah,25.078114,56.244857,cardiology|dental|dermatology|ophthalmology,AXA|Daman|National Life,4.7,+971-04527616,https://www.fujairah25.example.com
+Fujairah Specialty Clinic 26,"Sector 45, Fujairah",Fujairah,25.184132,56.37758,dermatology|ent|oncology|orthopedics,Daman|Oman Insurance,4.3,+971-77483865,https://www.fujairah26.example.com
+Fujairah Multicare Hospital 27,"Sector 28, Fujairah",Fujairah,25.192933,56.213573,cardiology|dermatology|oncology|orthopedics|pediatrics,AXA|Bupa,4.4,+971-62072761,https://www.fujairah27.example.com
+Fujairah Specialty Clinic 28,"Sector 39, Fujairah",Fujairah,25.055604,56.211481,dermatology|oncology|orthopedics,AXA|National Life,4.1,+971-09611799,https://www.fujairah28.example.com
+Fujairah Multicare Hospital 29,"Sector 21, Fujairah",Fujairah,25.106522,56.331538,dental|ent|oncology|orthopedics,ADNIC|National Life,4.3,+971-94804185,https://www.fujairah29.example.com
+Fujairah Specialty Clinic 30,"Sector 40, Fujairah",Fujairah,25.197014,56.365109,dental|neurology|orthopedics,AXA|MetLife,4.0,+971-92720885,https://www.fujairah30.example.com
+Fujairah Multicare Hospital 31,"Sector 9, Fujairah",Fujairah,25.157937,56.266828,dental|ent|ophthalmology|orthopedics,ADNIC|MetLife,4.0,+971-73209637,https://www.fujairah31.example.com
+Fujairah Specialty Clinic 32,"Sector 117, Fujairah",Fujairah,25.169582,56.324038,cardiology|oncology|orthopedics|pediatrics,ADNIC|AXA|Oman Insurance,3.8,+971-57225759,https://www.fujairah32.example.com
+Fujairah Multicare Hospital 33,"Sector 56, Fujairah",Fujairah,25.175986,56.471355,dental|ent|neurology|pediatrics,Daman|Oman Insurance,3.8,+971-41525414,https://www.fujairah33.example.com
+Fujairah Specialty Clinic 34,"Sector 104, Fujairah",Fujairah,25.094967,56.268093,cardiology|dental|dermatology|ent|pediatrics,Bupa|Daman,4.7,+971-24491974,https://www.fujairah34.example.com
+Fujairah Multicare Hospital 35,"Sector 78, Fujairah",Fujairah,25.087014,56.369855,ophthalmology|pediatrics|physiotherapy,ADNIC|AXA|National Life,4.6,+971-37931104,https://www.fujairah35.example.com
+Fujairah Specialty Clinic 36,"Sector 69, Fujairah",Fujairah,25.233408,56.28865,dental|dermatology|pediatrics,Daman|Oman Insurance,4.6,+971-06345089,https://www.fujairah36.example.com
+Fujairah Multicare Hospital 37,"Sector 56, Fujairah",Fujairah,25.079315,56.33405,dental|neurology|oncology|ophthalmology|orthopedics,Bupa|Daman|Oman Insurance,4.8,+971-52615708,https://www.fujairah37.example.com
+Fujairah Specialty Clinic 38,"Sector 60, Fujairah",Fujairah,25.20459,56.277144,cardiology|ent|neurology,MetLife|National Life,4.6,+971-08452976,https://www.fujairah38.example.com
+Fujairah Multicare Hospital 39,"Sector 108, Fujairah",Fujairah,25.157539,56.353761,oncology|ophthalmology|orthopedics|pediatrics,Daman|MetLife|Oman Insurance,4.7,+971-96797792,https://www.fujairah39.example.com
+Fujairah Specialty Clinic 40,"Sector 100, Fujairah",Fujairah,25.181985,56.312364,dental|dermatology|ophthalmology|orthopedics|pediatrics,Bupa|Daman|National Life,4.8,+971-46875685,https://www.fujairah40.example.com
+Fujairah Multicare Hospital 41,"Sector 48, Fujairah",Fujairah,25.080332,56.145523,cardiology|dental|neurology|ophthalmology|pediatrics,ADNIC|AXA|Bupa,4.4,+971-85830096,https://www.fujairah41.example.com
+Fujairah Specialty Clinic 42,"Sector 3, Fujairah",Fujairah,25.087041,56.323039,cardiology|ent|orthopedics|physiotherapy,AXA|National Life|Oman Insurance,4.4,+971-31416885,https://www.fujairah42.example.com
+Fujairah Multicare Hospital 43,"Sector 37, Fujairah",Fujairah,25.071719,56.263807,cardiology|dermatology|pediatrics|physiotherapy,ADNIC|Bupa,4.8,+971-55798400,https://www.fujairah43.example.com
+Fujairah Specialty Clinic 44,"Sector 21, Fujairah",Fujairah,25.198469,56.260193,neurology|pediatrics|physiotherapy,AXA|Bupa|Daman,4.6,+971-06546208,https://www.fujairah44.example.com
+Fujairah Multicare Hospital 45,"Sector 67, Fujairah",Fujairah,25.208596,56.267499,dental|dermatology|oncology|pediatrics,ADNIC|AXA|Oman Insurance,4.5,+971-40651654,https://www.fujairah45.example.com
+Fujairah Specialty Clinic 46,"Sector 54, Fujairah",Fujairah,25.08573,56.340082,ent|oncology|orthopedics|physiotherapy,AXA|Daman,4.6,+971-03910539,https://www.fujairah46.example.com
+Fujairah Multicare Hospital 47,"Sector 64, Fujairah",Fujairah,25.157398,56.325866,cardiology|dermatology|neurology|oncology|physiotherapy,ADNIC|Bupa,4.7,+971-02886223,https://www.fujairah47.example.com
+Fujairah Specialty Clinic 48,"Sector 44, Fujairah",Fujairah,25.059313,56.24873,cardiology|ent|orthopedics|physiotherapy,Daman|Oman Insurance,4.5,+971-09394149,https://www.fujairah48.example.com
+Fujairah Multicare Hospital 49,"Sector 62, Fujairah",Fujairah,25.147292,56.44097,ent|neurology|ophthalmology|pediatrics|physiotherapy,Bupa|MetLife,4.6,+971-09294528,https://www.fujairah49.example.com
+Fujairah Specialty Clinic 50,"Sector 27, Fujairah",Fujairah,25.090321,56.318732,cardiology|neurology|oncology|physiotherapy,AXA|Bupa|National Life,4.3,+971-97836751,https://www.fujairah50.example.com

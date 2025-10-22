@@ -1,0 +1,3 @@
+openai-whisper
+gTTS
+streamlit-mic-recorder
